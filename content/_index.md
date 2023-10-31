@@ -10,15 +10,23 @@ sections:
     content:
       title: Biography
       username: pascal
-  # - block: markdown
-  #   id: service
-  #   content:
-  #     title: Service
-  #     text: |-
-  #         ### Program Committees
-  #         * Smart Card Research and Advanced Application (CARDIS): 2021 - 2022
-  #   design:
-  #     columns: '2'
+  - block: markdown
+    id: service
+    content:
+      title: Service
+      text: |-
+          ### Program Chair
+          {{< icon name="ellipsis-vertical" pack="fas" >}} *Fault Diagnosis and Tolerance in Cryptography (FDTC)* [**2023**](https://fdtc.deib.polimi.it/FDTC23/)<br>
+
+          ### Editorial Board
+          {{< icon name="ellipsis-vertical" pack="fas" >}} *Transactions on Cryptographic Hardware and Embedded Systems (IACR TCHES)* [**2021**](https://ches.iacr.org/2021/), [**2022**](https://ches.iacr.org/2022/), [**2023**](https://ches.iacr.org/2023/), [**2024**](https://ches.iacr.org/2024/)<br>
+
+          ### Program Committee
+          {{< icon name="ellipsis-vertical" pack="fas" >}} *Smart Card Research and Advanced Application (CARDIS)* [**2021**](https://cardis2021.its.uni-luebeck.de/), [**2022**](https://events.cs.bham.ac.uk/cardis2022/), [**2023**](https://sbd-research.nl/cardis-2023/)<br>
+          {{< icon name="ellipsis-vertical" pack="fas" >}} *Constructive Side‐Channel Analysis and Secure Design (COSADE)* [**2023**](https://www.cosade.org/cosade23/)<br>
+          {{< icon name="ellipsis-vertical" pack="fas" >}} *Design, Automation and Test in Europe (DATE)* [**2024**](https://www.date-conference.com/tpc#DT5)
+    design:
+      columns: '2'
   # - block: accomplishments
   #   id: awards
   #   content:
