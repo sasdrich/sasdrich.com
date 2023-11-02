@@ -22,9 +22,10 @@ bio: My research interests include hardware security, secure design, and securit
 
 # Interests to show in About widget
 interests:
-  - Physical Attacks
   - Hardware Security
   - Computer-Aided Security
+  - Cryptographic Engineering
+  - Physical Implementation Attacks
 
 # Education to show in About widget
 education:

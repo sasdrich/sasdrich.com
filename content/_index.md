@@ -16,15 +16,27 @@ sections:
       title: Service
       text: |-
           ### Program Chair
-          {{< icon name="ellipsis-vertical" pack="fas" >}} *Fault Diagnosis and Tolerance in Cryptography (FDTC)* [**2023**](https://fdtc.deib.polimi.it/FDTC23/)<br>
+          {{< icon name="ellipsis-vertical" pack="fas" >}} Fault Diagnosis and Tolerance in Cryptography (FDTC) &ndash; [**2023**](https://fdtc.deib.polimi.it/FDTC23/)<br>
 
           ### Editorial Board
-          {{< icon name="ellipsis-vertical" pack="fas" >}} *Transactions on Cryptographic Hardware and Embedded Systems (IACR TCHES)* [**2021**](https://ches.iacr.org/2021/), [**2022**](https://ches.iacr.org/2022/), [**2023**](https://ches.iacr.org/2023/), [**2024**](https://ches.iacr.org/2024/)<br>
+          {{< icon name="ellipsis-vertical" pack="fas" >}} Transactions on Cryptographic Hardware and Embedded Systems (IACR TCHES) &ndash; [**2021**](https://ches.iacr.org/2021/), [**2022**](https://ches.iacr.org/2022/), [**2023**](https://ches.iacr.org/2023/), [**2024**](https://ches.iacr.org/2024/)<br>
 
           ### Program Committee
-          {{< icon name="ellipsis-vertical" pack="fas" >}} *Smart Card Research and Advanced Application (CARDIS)* [**2021**](https://cardis2021.its.uni-luebeck.de/), [**2022**](https://events.cs.bham.ac.uk/cardis2022/), [**2023**](https://sbd-research.nl/cardis-2023/)<br>
-          {{< icon name="ellipsis-vertical" pack="fas" >}} *Constructive Side‐Channel Analysis and Secure Design (COSADE)* [**2023**](https://www.cosade.org/cosade23/)<br>
-          {{< icon name="ellipsis-vertical" pack="fas" >}} *Design, Automation and Test in Europe (DATE)* [**2024**](https://www.date-conference.com/tpc#DT5)
+          {{< icon name="ellipsis-vertical" pack="fas" >}} Smart Card Research and Advanced Application (CARDIS) &ndash; [**2021**](https://cardis2021.its.uni-luebeck.de/), [**2022**](https://events.cs.bham.ac.uk/cardis2022/), [**2023**](https://sbd-research.nl/cardis-2023/)<br>
+          {{< icon name="ellipsis-vertical" pack="fas" >}} Constructive Side‐Channel Analysis and Secure Design (COSADE) &ndash; [**2023**](https://www.cosade.org/cosade23/)<br>
+          {{< icon name="ellipsis-vertical" pack="fas" >}} Design, Automation and Test in Europe (DATE) &ndash; [**2024**](https://www.date-conference.com/tpc#DT5)
+    design:
+      columns: '2'
+  - block: markdown
+    id: awards
+    content:
+      title: Awards
+      text: |-
+        #### Admission to the [Young College](https://www.awk.nrw/foerderung/junges-kolleg) of the [North Rhine-Westphalian Academy of Science and the Arts](https://www.awk.nrw/)
+        *Admission to the Young College is an important distinction for young scientists and artists in North Rhine-Westphalia. Fellows receive an annual stipend of 10,000 € for a period of up to four years.*
+
+        #### 9th [German IT Security Award](https://www.deutscher-it-sicherheitspreis.de/)
+        *1st place (awarded with 100,000 €) for the concept "Simply Secure: A Toolbox for Automated Generation and Evaluation of Protected Hardware" (together with David Knichel, Amir Moradi, Nicolai Müller).*
     design:
       columns: '2'
   # - block: accomplishments
