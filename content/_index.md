@@ -25,7 +25,7 @@ sections:
           company: ''
           date_start: '2024-01-01'
           description: |2-
-              Fault Diagnosis and Tolerance in Cryptography (FDTC) &ndash; [**2023**](https://fdtc.deib.polimi.it/FDTC23/)
+              Fault Diagnosis and Tolerance in Cryptography (FDTC) &ndash; [**2023**](https://fdtc.deib.polimi.it/FDTC23/), [**2024**](https://fdtc.deib.polimi.it/FDTC24/)
         - title: Program Committee
           company: ''
           date_start: '2024-01-01'
