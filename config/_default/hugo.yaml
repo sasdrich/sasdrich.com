@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Pascal Sasdrich # Website name
-baseURL: 'https://sasdrich.com/' # Website URL
+baseURL: 'https://sasdrich.github.io/sasdrich.com/' # Website URL
 
 ############################
 ## LANGUAGE
