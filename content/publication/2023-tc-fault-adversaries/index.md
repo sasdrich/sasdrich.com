@@ -35,4 +35,5 @@ publication_types:
 abstract: ''
 publication: '*IEEE Transactions on Computers (TC)*'
 doi: 10.1109/TC.2022.3164259
+url_pdf: 'https://eprint.iacr.org/2021/296.pdf'
 ---

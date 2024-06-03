@@ -37,4 +37,5 @@ publication_types:
 abstract: ''
 publication: '*IACR Transactions Cryptographic Hardware Embedded Systems (TCHES)*'
 doi: 10.46586/tches.v2022.i4.188-227
+url_pdf: 'https://tches.iacr.org/index.php/TCHES/article/view/9818/9323'
 ---

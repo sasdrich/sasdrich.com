@@ -1,18 +1,22 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
+# Documentation: https://docs.hugoblox.com/managing-content/
 
-title: Recommendation for a Holistic Secure Embedded ISA Extension
+title: INDIANA - Verifying (Random) Probing Security through Indistinguishability
+  Analysis
 subtitle: ''
 summary: ''
 authors:
-- Florian Stolz
-- Marc Fyrbiak
-- pascal
+- Christof Beierle
+- Jakob Feldtkeller
+- Anna Guinet
 - Tim Güneysu
+- Gregor Leander
+- Jan Richter-Brockmann
+- Pascal Sasdrich
 tags: []
 categories: []
-date: '2023-01-01'
-lastmod: 2023-10-31T11:34:35+01:00
+date: '2024-05-31'
+lastmod: 2024-06-03T09:13:20+02:00
 featured: false
 draft: false
 
@@ -30,11 +34,11 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-10-31T10:43:39.175047Z'
+publishDate: '2024-05-31'
 publication_types:
-- '1'
+- '2'
 abstract: ''
-publication: '*Applied Cryptography and Network Security (ACNS)*'
-doi: 10.1007/978-3-031-33491-7_3
-url_pdf: 'https://eprint.iacr.org/2023/022.pdf'
+publication: 'Cryptology ePrint Archive, Paper 2024/833'
+doi: ''
+url_pdf: 'https://ia.cr/2024/833'
 ---

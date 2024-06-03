@@ -35,7 +35,7 @@ publication_types:
 abstract: ''
 publication: '*ACM Transactions on Embedded Computing Systems*'
 doi: 10.1145/3576199
-links:
-- name: URL
-  url: https://doi.org/10.1145/3576199
+# links:
+# - name: URL
+#   url: https://doi.org/10.1145/3576199
 ---

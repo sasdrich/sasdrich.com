@@ -38,5 +38,6 @@ publication_types:
 - '1'
 abstract: ''
 publication: '*ACM Conference on Computer and Communications Security (CCS)*'
-doi: ''
+doi: 10.1145/3576915.3623129
+url_pdf: 'https://eprint.iacr.org/2023/1341.pdf'
 ---

@@ -35,4 +35,5 @@ publication_types:
 abstract: ''
 publication: '*Advances in Cryptology (ASIACRYPT)*'
 doi: 10.1007/978-3-030-64837-4_26
+url_pdf: 'https://eprint.iacr.org/2020/634.pdf'
 ---

@@ -41,4 +41,5 @@ publication_types:
 abstract: ''
 publication: '*IACR Transactions on Symmetric Cryptology (ToSC)*'
 doi: 10.13154/tosc.v2020.iS1.88-131
+url_pdf: 'https://tosc.iacr.org/index.php/ToSC/article/view/8619/8185'
 ---

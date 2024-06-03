@@ -35,4 +35,5 @@ publication_types:
 abstract: ''
 publication: '*Smart Card Research and Advanced Applications (CARDIS)*'
 doi: 10.1007/978-3-030-97348-3_12
+url_pdf: 'https://eprint.iacr.org/2021/355.pdf'
 ---
