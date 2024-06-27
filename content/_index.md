@@ -25,7 +25,8 @@ sections:
           company: ''
           date_start: '2024-01-01'
           description: |2-
-              Fault Diagnosis and Tolerance in Cryptography (FDTC) &ndash; [**2023**](https://fdtc.deib.polimi.it/FDTC23/), [**2024**](https://fdtc.deib.polimi.it/FDTC24/)
+              CASCADE &ndash; [**2024**](http://cascade-conference.org/)
+              Fault Diagnosis and Tolerance in Cryptography (FDTC) &ndash; [**2023**](https://fdtc.deib.polimi.it/FDTC23/)
         - title: Program Committee
           company: ''
           date_start: '2024-01-01'
@@ -33,11 +34,12 @@ sections:
               Smart Card Research and Advanced Application (CARDIS) &ndash; [**2021**](https://cardis2021.its.uni-luebeck.de/), [**2022**](https://events.cs.bham.ac.uk/cardis2022/), [**2023**](https://sbd-research.nl/cardis-2023/)<br>
               Constructive Side‐Channel Analysis and Secure Design (COSADE) &ndash; [**2023**](https://www.cosade.org/cosade23/), [**2024**](https://www.cosade.org/cosade24/)<br>
               Design, Automation and Test in Europe (DATE) &ndash; [**2024**](https://www.date-conference.com/tpc#DT5)
+              Fault Diagnosis and Tolerance in Cryptography (FDTC) &ndash; [**2024**](https://fdtc.deib.polimi.it/FDTC24/)
         - title: Editorial Board
           company: ''
           date_start: '2024-01-01'
           description: |2-
-              Transactions on Cryptographic Hardware and Embedded Systems (IACR TCHES) &ndash; [**2021**](https://ches.iacr.org/2021/), [**2022**](https://ches.iacr.org/2022/), [**2023**](https://ches.iacr.org/2023/), [**2024**](https://ches.iacr.org/2024/)
+              Transactions on Cryptographic Hardware and Embedded Systems (IACR TCHES) &ndash; [**2021**](https://ches.iacr.org/2021/), [**2022**](https://ches.iacr.org/2022/), [**2023**](https://ches.iacr.org/2023/), [**2024**](https://ches.iacr.org/2024/), [**2025**](https://ches.iacr.org/2025/)
     design:
       columns: '2'
   - block: accomplishments
