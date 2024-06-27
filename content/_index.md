@@ -25,7 +25,7 @@ sections:
           company: ''
           date_start: '2024-01-01'
           description: |2-
-              CASCADE &ndash; [**2024**](http://cascade-conference.org/)
+              CASCADE &ndash; [**2024**](http://cascade-conference.org/)<br>
               Fault Diagnosis and Tolerance in Cryptography (FDTC) &ndash; [**2023**](https://fdtc.deib.polimi.it/FDTC23/)
         - title: Program Committee
           company: ''
@@ -33,7 +33,7 @@ sections:
           description: |2-
               Smart Card Research and Advanced Application (CARDIS) &ndash; [**2021**](https://cardis2021.its.uni-luebeck.de/), [**2022**](https://events.cs.bham.ac.uk/cardis2022/), [**2023**](https://sbd-research.nl/cardis-2023/)<br>
               Constructive Side‐Channel Analysis and Secure Design (COSADE) &ndash; [**2023**](https://www.cosade.org/cosade23/), [**2024**](https://www.cosade.org/cosade24/)<br>
-              Design, Automation and Test in Europe (DATE) &ndash; [**2024**](https://www.date-conference.com/tpc#DT5)
+              Design, Automation and Test in Europe (DATE) &ndash; [**2024**](https://www.date-conference.com/tpc#DT5)<br>
               Fault Diagnosis and Tolerance in Cryptography (FDTC) &ndash; [**2024**](https://fdtc.deib.polimi.it/FDTC24/)
         - title: Editorial Board
           company: ''
