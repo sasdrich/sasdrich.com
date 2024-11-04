@@ -7,12 +7,12 @@ summary: ''
 authors:
 - Jakob Feldtkeller
 - Jan Richter-Brockmann
-- pascal
+- Pascal Sasdrich
 - Tim Güneysu
 tags: []
 categories: []
-date: '2024-04-19'
-lastmod: 2024-05-28T15:17:20+02:00
+date: '2024-09-05'
+lastmod: 2024-10-14T14:52:05+02:00
 featured: false
 draft: false
 
@@ -30,11 +30,11 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2024-04-19'
+publishDate: '2024-10-14T12:52:04.995679Z'
 publication_types:
-- '1'
+- '2'
 abstract: ''
-publication: 'Cryptology ePrint Archive, Paper 2024/365'
-doi: ''
+publication: '*IACR Transactions Cryptographic Hardware Embedded Systems (TCHES)*'
+doi: 10.46586/TCHES.V2024.I4.307-334
 url_pdf: 'https://ia.cr/2024/365'
 ---

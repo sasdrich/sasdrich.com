@@ -32,12 +32,18 @@ education:
   courses:
     - course: PhD in Cryptographic Engineering
       institution: Ruhr-Universität Bochum
+      date_start: 2013-10-01
+      date_end: 2018-01-18
       year: 2018
     - course: MSc in IT Security
       institution: Ruhr-Universität Bochum
+      date_start: 2012-10-01
+      date_end: 2015-03-30
       year: 2015
     - course: BSc in IT Security
       institution: Ruhr-Universität Bochum
+      date_start: 2009-10-01
+      date_end: 2012-09-30
       year: 2012
 
 # Skills
@@ -119,7 +125,7 @@ email: 'pascal.sasdrich@rub.de'
 highlight_name: true
 ---
 
-I am head of the [Emmy Noether](https://www.dfg.de/en/research_funding/programmes/individual/emmy_noether/index.html) research group on "Computer-Aided Verification of Physical Security Properties (CAVE)" at the [Chair for Security Engineering](https://informatik.rub.de/seceng), [Ruhr-Universität Bochum](https://ruhr-uni-bochum.de/en), Germany.
+I am head of the [Emmy Noether](https://www.dfg.de/en/research_funding/programmes/individual/emmy_noether/index.html) research group on "Computer-Aided Verification of Physical Security Properties (CAVE)" hosted at the [Faculty of Computer Science](https://informatik.rub.de/en/), [Ruhr-Universität Bochum](https://ruhr-uni-bochum.de/en), Germany.
 
 Before, I worked as a Senior Hardware Security Engineer at the Rambus Cryptography Research Group located in Rotterdam, The Netherlands. I obtained my PhD (Dr.-Ing.) in 2018 on the topic of "Cryptographic Hardware Agility for Physical Protection" under the supervision of [Prof. Dr.-Ing. Tim Güneysu](https://informatik.rub.de/seceng/personen/gueneysu) at the Ruhr-Universität Bochum, Germany.
 

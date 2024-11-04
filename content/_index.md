@@ -25,7 +25,7 @@ sections:
           company: ''
           date_start: '2024-01-01'
           description: |2-
-              CASCADE &ndash; [**2024**](http://cascade-conference.org/)<br>
+              CASCADE &ndash; [**2025**](http://cascade-conference.org/)<br>
               Fault Diagnosis and Tolerance in Cryptography (FDTC) &ndash; [**2023**](https://fdtc.deib.polimi.it/FDTC23/)
         - title: Program Committee
           company: ''
