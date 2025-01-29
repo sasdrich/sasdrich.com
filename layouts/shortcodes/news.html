@@ -1,0 +1,19 @@
+<h1>News</h1>
+
+{{ range where .Site.RegularPages "Section" "posts"}}
+{{ if not (index .Params.settings "newsHidden") }}
+<article class="markdown book-post">
+<div style="display:flex;">
+<div style="flex: 0 0 20%;">{{ partial "docs/post-meta" . }}</div>
+<div style="flex: 1;">
+    <b>{{- .Params.post.title | markdownify -}}</b><br>
+    {{- .Params.post.description | markdownify -}}
+    {{- .Params.post.summary | markdownify -}}
+    {{ if .Truncated }}
+        <a href="{{ .RelPermalink }}">...</a>
+    {{ end }}
+</div>
+</div>
+</article>
+{{ end }}
+{{ end }}

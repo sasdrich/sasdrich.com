@@ -1,0 +1,8 @@
+{{ range $awards := (sort .Site.Data.awards "start" "desc")}}
+
+<div class="listContainer">
+    <div class="listTag">{{ time.Format "2006" .start }}{{ with .end }} - {{ time.Format "2006" . }}{{ end }}</div>
+    <div class="listElem"><b>{{ .title }}</b> {{ .description | markdownify }}{{ with .link }}<a href="{{ . }}" class="tag">link</a>{{ end }}</div>
+</div>
+
+{{ end }}

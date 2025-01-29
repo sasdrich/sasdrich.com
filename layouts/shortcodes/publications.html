@@ -1,0 +1,20 @@
+
+{{ $venues := .Site.Data.venues }}
+{{ range (index .Site.Data.publications (.Get 0)) }}
+{{ range $publication := (sort . "published" "desc") }}
+{{ $venue := (index $venues.venue $publication.venue ) }}
+{{ $date := $publication.published }}{{ with $publication.presented }}{{ $date = .}}{{ end }}
+{{ $link := (index $venue (time.Format "2006" $date)).link }}
+{{ with $venue.link }}{{ $link = . }}{{ end }}
+<div class="listContainer">
+<div class="listTag">
+{{ $venue.short }}'{{ time.Format "06" $date }}
+</div>
+<div class="listElem">
+<b>{{ .title }}.</b> 
+{{ delimit .authors ", " " and " | markdownify }}. {{ with $link }}<a href="{{ . }}">{{ end }}{{ with $venue.title }}{{ . }}{{ end }}{{ with $link }}</a>{{ end }} {{ with $publication.issue }}{{ . }} {{ end }}{{ with $date }}({{ time.Format "2006" . }}) {{ end }}{{ range $key, $value := .references }}{{ with $value }}<a href="{{ $value }}" class="tag">{{ $key }}</a>{{ end }}{{ end }}
+</div>
+</div>
+{{ end }}
+{{ end }}
+

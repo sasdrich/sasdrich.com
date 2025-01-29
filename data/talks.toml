@@ -1,0 +1,89 @@
+[[invited]]
+title  = "Implementing Curve25519 for Side-Channel-Protected Elliptic Curve Cryptography"
+date   = 2016-09-06
+venue  = "ecc"
+slides = ""
+
+[[invited]]
+title  = "Statistical Independence and Leakage Veriﬁcation (SILVER)"
+date   = 2021-02-24
+venue  = "iscwsisc"
+slides = ""
+
+[[invited]]
+title  = "Computer-Aided Hardware Security Veriﬁcation"
+date   = 2022-09-22
+venue  = "verisicc"
+slides = ""
+
+[[conference]]
+title  = "Efficient Elliptic-Curve Cryptography using Curve25519 on Reconfigurable Devices"
+date   = 2014-04-14
+venue  = "arc"
+slides = ""
+
+[[conference]]
+title  = "Efficient Elliptic-Curve Cryptography using Curve25519 on Reconfigurable Devices"
+date   = 2014-06-27
+venue  = "kryptotag"
+slides = ""
+
+[[conference]]
+title  = "Side-Channel Protection by Randomizing Look-Up Tables on Reconfigurable Hardware - Pitfalls of Memory Primitives"
+date   = 2015-03-26
+venue  = "cosade"
+slides = ""
+
+[[conference]]
+title  = "Achieving Side-Channel Protection with Dynamic Logic Reconfiguration on Modern FPGAs"
+date   = 2015-05-06
+venue  = "host"
+slides = ""
+
+[[conference]]
+title  = "Side-Channel Protection with Dynamic Logic Reconfiguration and Randomized Look-Up Tables on FPGAs"
+date   = 2015-07-10
+venue  = "kryptotag"
+slides = ""
+
+[[conference]]
+title  = "Side-Channel Protection with Dynamic Logic Reconfiguration and Randomized Look-Up Tables on FPGAs"
+date   = 2015-08-13
+venue  = "sac"
+slides = ""
+
+[[conference]]
+title  = "Pushing the Limits: Ultra-Lightweight AES on Reconfigurable Hardware"
+date   = 2015-09-17
+venue  = "trudevice"
+slides = ""
+
+[[conference]]
+title  = "White-Box Cryptography in the Gray Box - A Hardware Implementation and its Side Channels"
+date   = 2016-03-21
+venue  = "fse"
+slides = ""
+
+[[conference]]
+title  = "A Grain in the Silicon: SCA-Protected AES in Less Than 30 Slices"
+date   = 2016-07-06
+venue  = "asap"
+slides = ""
+
+[[conference]]
+title  = "Hiding Higher-Order Side-Channel Leakage - Randomizing Threshold Implementations in Reconfigurable Hardware"
+date   = 2016-11-15
+venue  = "trudevice"
+slides = ""
+
+[[conference]]
+title  = "Hiding Higher-Order Side-Channel Leakage - Randomizing Cryptographic Implementations in Reconfigurable Hardware"
+date   = 2017-02-15
+venue  = "ctrsa"
+slides = ""
+
+[[conference]]
+title  = "Low-Latency Hardware Masking with Application to AES"
+date   = 2020-09-18
+venue  = "ches"
+slides = "slides/2020_09_18_ches.pdf"

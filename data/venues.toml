@@ -1,0 +1,425 @@
+[venue]
+
+# =============================================================================
+
+[venue.acmccs]
+short = "CCS"
+title = "Computer and Communications Security"
+
+[venue.acmccs.2022]
+link  = "https://www.sigsac.org/ccs/CCS2022/"
+
+[venue.acmccs.2023]
+link  = "https://www.sigsac.org/ccs/CCS2023/"
+
+# =============================================================================
+
+[venue.acmtecs]
+short = "ACM TECS"
+title = "ACM Transactions on Embedded Computing Systems"
+
+[venue.acmtecs.2023]
+link  = "https://dl.acm.org/toc/tecs/2023/"
+
+# =============================================================================
+
+[venue.acmtrets]
+short = "ACM TRETS"
+title = "ACM Transactions on Reconfigurable Technology and Systems"
+
+[venue.acmtrets.2015]
+link  = "https://dl.acm.org/toc/trets/2015/"
+
+# =============================================================================
+
+[venue.acns]
+short = "ACNS"
+title = "Applied Cryptography and Network Security"
+
+[venue.acns.2023]
+link  = "https://sulab-sever.u-aizu.ac.jp/ACNS2023/"
+
+# =============================================================================
+
+[venue.arc]
+short = "ARC"
+title = "Reconfigurable Computing: Architectures, Tools, and Applications"
+
+[venue.arc.2014]
+start    = 2014-04-14
+end      = 2014-04-16
+link     = "https://fe.up.pt/specs/events/arc2014/"
+location = "Vilamoura, Algarve, Portugal"
+
+# =============================================================================
+
+[venue.ares]
+short = "ARES"
+title = "Availability, Reliability and Security"
+link  = "https://www.ares-conference.eu"
+
+# =============================================================================
+
+[venue.asap]
+short = "ASAP"
+title = "Application-specific Systems, Architectures and Processors"
+
+[venue.asap.2016]
+start    = 2016-07-06
+end      = 2016-07-08
+link     = "https://asap2016.org/"
+location = "Imperial College London, London, England"
+
+# =============================================================================
+
+[venue.asiacrypt]
+short = "ASIACRYPT"
+title = "Advances in Cryptology"
+link  = "https://asiacrypt.iacr.org/"
+
+# =============================================================================
+
+[venue.cardis]
+short = "CARDIS"
+title = "Smart Card Research and Advanced Applications"
+link  = "https://cardis.org/"
+
+[venue.cardis.2021]
+start    = 2021-11-11
+end      = 2021-11-12
+link     = "https://cardis2021.its.uni-luebeck.de/"
+location = "Lübeck, Germany"
+service  = "pcmember"
+
+[venue.cardis.2022]
+start    = 2022-11-07
+end      = 2022-11-09
+link     = "https://events.cs.bham.ac.uk/cardis2022/"
+location = "Birmingham, United Kingdom"
+service  = "pcmember"
+
+[venue.cardis.2023]
+start    = 2023-11-15
+end      = 2023-11-16
+link     = "https://sbd-research.nl/cardis-2023/"
+location = "Amsterdam, The Netherlands"
+
+# =============================================================================
+
+[venue.cascade]
+title    = "Constructive Approaches for SeCurity Analysis and Design of Embedded systems"
+short    = "CASCADE"
+
+[venue.cascade.2025]
+start    = 2025-04-02
+end      = 2025-04-04
+link     = "https://www.cascade-conference.org"
+location = "St. Etienne, France"
+service  = "pcchair"
+
+# =============================================================================
+
+[venue.ches]
+short = "CHES"
+title = "Cryptographic Hardware and Embedded Systems"
+link  = "https://ches.iacr.org/"
+
+[venue.ches.2020]
+start    = 2020-09-14
+end      = 2020-09-18
+link     = "https://ches.iacr.org/2020/"
+location = "Virtual, Earth"
+
+
+# =============================================================================
+
+[venue.cosade]
+short = "COSADE"
+title = "Constructive Side-Channel Analysis and Secure Design"
+link  = "https://www.cosade.org/"
+
+[venue.cosade.2015]
+start    = 2015-04-13
+end      = 2015-04-14
+link     = "https://www.cosade.org/cosade19/cosade15/index.html"
+location = "Berlin, Germany"
+
+[venue.cosade.2023]
+start    = 2023-04-03
+end      = 2023-04-04
+link     = "https://www.cosade.org/cosade23/"
+location = "Munich, Germany"
+
+[venue.cosade.2024]
+start    = 2024-04-09
+end      = 2024-04-10
+link     = "https://www.cosade.org/cosade24/"
+location = "Gardanne, France"
+
+# =============================================================================
+
+[venue.crypto]
+short = "CRYPTO"
+title = "Advances in Cryptology"
+link  = "https://crypto.iacr.org/"
+
+# =============================================================================
+
+[venue.ctrsa]
+short = "CT-RSA"
+title = "Cryptographers' Track at the RSA Conference"
+
+[venue.ctrsa.2017]
+start    = 2017-02-14
+end      = 2017-02-17
+link     = "https://www.rambus.com/ct-rsa-2017/"
+location = "San Francisco, California, USA"
+
+# =============================================================================
+
+[venue.dac]
+short = "DAC"
+title = "Design Automation Conference"
+link  = "https://dac.com/"
+
+# =============================================================================
+
+[venue.date]
+short = "DATE"
+title = "Design, Automation & Test in Europe"
+link  = "http://date-conference.com"
+
+[venue.date.2024]
+start    = 2024-03-25
+end      = 2024-03-27
+link     = "https://www.date-conference.com/tpc#DT5"
+location = "Valencia, Spain"
+
+[venue.date.2025]
+start    = 2025-03-31
+end      = 2025-04-02
+link     = "https://www.date-conference.com/tpc#DT5"
+location = "Lyon, France"
+
+# =============================================================================
+
+[venue.ecc]
+short = "ECC"
+title = "Workshop on Elliptic Curve Cryptography"
+
+[venue.ecc.2016]
+start    = 2016-09-01
+end      = 2016-09-07
+link     = "https://ecc2016.yasar.edu.tr"
+location = "Izmir, Turkey"
+
+# =============================================================================
+
+[venue.eprint]
+short = "IACR ePrint"
+title = "IACR Cryptology ePrint Archive"
+link  = "https://eprint.iacr.org"
+
+# =============================================================================
+
+[venue.fdtc]
+title     = "Fault Diagnosis and Tolerance in Cryptography"
+short    = "FDTC"
+
+[venue.fdtc.2023]
+start    = 2023-09-10
+end      = 2023-09-10
+link     = "https://fdtc.deib.polimi.it/FDTC23/"
+location = "Prague, Czech Republic"
+
+[venue.fdtc.2024]
+start    = 2024-09-04
+end      = 2024-09-04
+link     = "https://fdtc.deib.polimi.it/FDTC24/"
+location = "Halifax, Nova Scotia, Canada"
+
+# =============================================================================
+
+[venue.fpl]
+short = "FPL"
+title = "Field Programmable Logic and Applications"
+link  = "https://fpl.org"
+
+# =============================================================================
+
+[venue.fse]
+short = "FSE"
+title = "Fast Software Encryption"
+link  = "https://fse.iacr.org/"
+
+[venue.fse.2016]
+start    = 2016-03-20
+end      = 2016-03-23
+location = "Bochum, Germany"
+
+# =============================================================================
+
+[venue.hass]
+short = "HASS"
+title = "Journal of Hardware and Systems Security"
+link  = "https://link.springer.com/journal/41635/volumes-and-issues/"
+
+# =============================================================================
+
+[venue.host]
+short = "HOST"
+title = "Hardware Oriented Security and Trust"
+link  = "http://www.hostsymposium.org"
+
+[venue.host.2015]
+start    = 2015-05-05
+end      = 2015-05-07
+location = "McLean, Virgina, USA"
+
+# =============================================================================
+
+[venue.ieeetc]
+short = "IEEE TC"
+title = "IEEE Transactions on Computers"
+link  = "https://www.computer.org/csdl/journal/tc"
+
+# =============================================================================
+
+[venue.iscwsisc]
+short = "ISCwsISC"
+title = "ISC Winter School on Information Security"
+
+[venue.iscwsisc.2021]
+start    = 2021-02-22
+end      = 2021-02-25
+link     = "http://iscwsisc2021.sbu.ac.ir/"
+location = "Virtual, Earth"
+
+# =============================================================================
+
+[venue.kryptotag]
+short = "Krypto-Tag"
+title = "Krypto-Tag"
+
+[venue.kryptotag.2014]
+start    = 2014-06-26
+end      = 2014-06-27
+link     = "https://fg-krypto.gi.de/fileadmin/FG/KRYPTO/Proceedings/KT20_Tagungsband.pdf"
+location = "T-Labs, Berlin, Germany"
+
+[venue.kryptotag.2015]
+start    = 2015-07-09
+end      = 2015-07-10
+link     = "https://fg-krypto.gi.de/fileadmin/FG/KRYPTO/Proceedings/kryptotag22-proc.pdf"
+location = "Infineon Technologies AG, Munich, Germany"
+
+# =============================================================================
+
+[venue.sac]
+short = "SAC"
+title = "Selected Areas in Cryptography"
+link  = "https://sacworkshop.org"
+
+[venue.sac.2015]
+start    = 2015-08-12
+end      = 2015-08-14
+link     = "https://sacworkshop.org/SAC15/index.html"
+location = "Mount Allison University, Sackville, New Brunswick, Canada"
+
+# =============================================================================
+
+[venue.space]
+title     = "Security, Privacy and Applied Cryptographic Engineering"
+short    = "SPACE"
+
+[venue.space.2024]
+start    = 2024-12-14
+end      = 2024-12-17
+link     = "https://space2024.cse.iitk.ac.in"
+location = "Kerala, India"
+
+# =============================================================================
+
+[venue.steve]
+title     = "Workshop on Security Testing and Verification"
+short    = "STEVE"
+
+[venue.steve.2023]
+start    = 2023-09-04
+end      = 2023-09-06
+link     = "https://steve.casa.rub.de"
+location = "Bochum, Germany"
+
+# =============================================================================
+
+[venue.tches]
+short    = "TCHES"
+title    = "IACR Transactions on Cryptographic Hardware and Embedded Systems"
+link     = "https://tches.iacr.org/"
+
+[venue.tches.2025]
+start    = 2025-09-14
+end      = 2025-09-18
+link     = "https://ches.iacr.org/2025"
+location = "Kuala Lumpur, Malaysia"
+
+[venue.tches.2024]
+start    = 2024-09-04
+end      = 2024-09-07
+link     = "https://ches.iacr.org/2024/"
+location = "Halifax, Nova Scotia, Canada"
+
+[venue.tches.2023]
+start    = 2023-09-10
+end      = 2023-09-14
+link     = "https://ches.iacr.org/2023/"
+location = "Prague, Czech Republic"
+
+[venue.tches.2022]
+start    = 2022-09-18
+end      = 2022-09-21
+link     = "https://ches.iacr.org/2022/"
+location = "Leuven, Belgium"
+
+[venue.tches.2021]
+start    = 2021-09-13
+end      = 2021-09-17
+link     = "https://ches.iacr.org/2021/"
+location = "Virtual, Earth"
+
+# =============================================================================
+
+[venue.tosc]
+short    = "ToSC"
+title    = "IACR Transactions on Symmetric Cryptology"
+link     = "https://tosc.iacr.org/"
+
+# =============================================================================
+
+[venue.trudevice]
+short    = "TRUDEVICE"
+title    = "Trustworthy Manufacturing and Utilization of Secure Devices"
+
+[venue.trudevice.2015]
+start    = 2015-09-17
+end      = 2015-09-17
+link     = "https://www.cryptoexperts.com/ches2015/pdf/TRUDEVICE_programv8.pdf"
+location = "Saint-Malo, France"
+
+[venue.trudevice.2016]
+start    = 2016-11-14
+end      = 2016-11-16
+link     = "https://upcommons.upc.edu/handle/2117/99186"
+location = "Barcelona, Spain"
+
+# =============================================================================
+
+[venue.verisicc]
+short = "VeriSiCC"
+title = "VeriSiCC Seminar"
+
+[venue.verisicc.2022]
+start    = 2022-09-22
+end      = 2022-09-22
+link     = "https://www.cryptoexperts.com/verisicc/seminaire-2022.html"
+location = "Paris, France"

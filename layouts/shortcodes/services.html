@@ -1,0 +1,18 @@
+{{ $services := index .Site.Data.services (.Get 0) }}
+{{ $venues := .Site.Data.venues.venue}}
+
+{{ range $services }}
+
+{{ $venue := index $venues (index (split . ".") 0) }}
+{{ $event := index $venue (index (split . ".") 1) }}
+{{ $link  := $venue.link }}{{ with $event.link }}{{ $link = $event.link }}{{ end }}
+
+<div class="listContainer">
+<div class="listTag">{{ $venue.short }}'{{ time.Format "06" $event.start }}</div>
+<div class="listElem">
+<b>{{ $venue.title }}</b>, {{ time.Format "2006" $event.start }}, {{ $event.location }}
+{{ with $link }}<a href="{{ . }}" class="tag">link</a>{{ end }}
+</div>
+</div>
+
+{{ end }}

@@ -1,0 +1,570 @@
+[journal]
+
+[[journal.publication]]
+title                = "Combined Threshold Implementation"
+authors              = [ "Jakob Feldtkeller", "Jan Richter-Brockmann", "Pascal Sasdrich", "Tim Güneysu" ]
+published            = "2024-09-05"
+venue                = "tches"
+issue                = "Issue 4"
+references.preprint  = "https://eprint.iacr.org/2024/365.pdf"
+references.paper     = "https://tches.iacr.org/index.php/TCHES/article/view/11794/11299"
+references.doi       = "https://doi.org/10.46586/tches.v2024.i4.307-334"
+references.slides    = ""
+references.video     = ""
+references.code      = ""
+references.artifacts = ""
+references.website   = ""
+
+[[journal.publication]]
+title                = "Revisiting Fault Adversary Models - Hardware Faults in Theory and Practice"
+authors              = [ "Jan Richter-Brockmann", "Pascal Sasdrich", "Tim Güneysu" ]
+published            = "2023-02-01"
+venue                = "ieeetc"
+issue                = "72.2"
+references.preprint  = "https://eprint.iacr.org/2021/296.pdf"
+references.paper     = "https://casa.rub.de/fileadmin/img/Publikationen_PDFs/2022_Revisiting_Fault_Adversary_Models-Hardware_Faults_in_Theory_and_Practice_Publication_ClusterofExcellence_CASA_Bochum.pdf"
+references.doi       = "https://doi.org/10.1109/TC.2022.3164259"
+references.slides    = ""
+references.video     = ""
+references.code      = ""
+references.artifacts = ""
+references.website   = ""
+
+[[journal.publication]]
+title                = "Risky Translations: Securing TLBs against Timing Side Channels"
+authors              = [ "Florian Stolz", "Jan Philipp Thoma", "Pascal Sasdrich", "Tim Güneysu" ]
+published            = "2022-11-29"
+presented            = "2023-09-13"
+venue                = "tches"
+issue                = "Issue 1"
+references.preprint  = "https://eprint.iacr.org/2022/1394.pdf"
+references.paper     = "https://tches.iacr.org/index.php/TCHES/article/view/9945/9448"
+references.doi       = "https://doi.org/10.46586/tches.v2023.i1.1-31"
+references.slides    = "https://iacr.org/submit/files/slides/2023/tches/ches2023/1_1/slides.pdf"
+references.video     = ""
+references.code      = ""
+references.artifacts = ""
+references.website   = ""
+
+[[journal.publication]]
+title                = "Challenges and Opportunities of Security-Aware EDA"
+authors              = [ "Jakob Feldtkeller", "Pascal Sasdrich", "Tim Güneysu" ]
+published            = "2023-04-19"
+venue                = "acmtecs"
+issue                = "22.3"
+references.preprint  = ""
+references.paper     = "https://hss-opus.ub.ruhr-uni-bochum.de/opus4/frontdoor/deliver/index/docId/10997/file/FeldtkellerJakobTrans2.pdf"
+references.doi       = "https://doi.org/10.1145/3576199"
+references.slides    = ""
+references.video     = ""
+references.code      = ""
+references.artifacts = ""
+references.website   = ""
+
+[[journal.publication]]
+title                = "VERICA - Verification of Combined Attacks. Automated Formal Verification of Security against Simultaneous Information Leakage and Tampering"
+authors              = [ "Jan Richter-Brockmann", "Jakob Feldtkeller", "Pascal Sasdrich", "Tim Güneysu" ]
+published            = "2022-08-31"
+presented            = "2023-09-19"
+venue                = "tches"
+issue                = "Issue 4"
+references.preprint  = "https://eprint.iacr.org/2022/484.pdf"
+references.paper     = "https://tches.iacr.org/index.php/TCHES/article/view/9820/9325"
+references.doi       = "https://doi.org/10.46586/tches.v2022.i4.255-284"
+references.slides    = "https://iacr.org/submit/files/slides/2022/tches/ches2022/4_22/slides.pptx"
+references.video     = ""
+references.code      = "https://github.com/Chair-for-Security-Engineering/VERICA"
+references.artifacts = "https://tches.iacr.org/index.php/TCHES/article/view/9820/11153"
+references.website   = ""
+
+[[journal.publication]]
+title                = "Transitional Leakage in Theory and Practice. Unveiling Security Flaws in Masked Circuits"
+authors              = [ "Nicolai Müller", "David Knichel", "Pascal Sasdrich", "Amir Moradi" ]
+published            = "2022-02-15"
+presented            = "2022-09-19"
+venue                = "tches"
+issue                = "Issue 2"
+references.preprint  = "https://eprint.iacr.org/2022/023.pdf"
+references.paper     = "https://tches.iacr.org/index.php/TCHES/article/view/9488/9036"
+references.doi       = "https://doi.org/10.46586/tches.v2022.i2.266-288"
+references.slides    = "https://iacr.org/submit/files/slides/2022/tches/ches2022/2_50/slides.pptx"
+references.video     = ""
+references.code      = "https://github.com/Chair-for-Security-Engineering/SILVER/tree/transitional-leakage"
+references.artifacts = ""
+references.website   = ""
+
+[[journal.publication]]
+title                = "Randomness Optimization for Gadget Compositions in Higher-Order Masking"
+authors              = [ "Jakob Feldtkeller", "David Knichel", "Pascal Sasdrich", "Amir Moradi", "Tim Güneysu" ]
+published            = "2022-08-31"
+presented            = "2022-09-21"
+venue                = "tches"
+issue                = "Issue 4"
+references.preprint  = "https://eprint.iacr.org/2022/882.pdf"
+references.paper     = "https://tches.iacr.org/index.php/TCHES/article/view/9818/9323"
+references.doi       = "https://doi.org/10.46586/tches.v2022.i4.188-227"
+references.slides    = "https://iacr.org/submit/files/slides/2022/tches/ches2022/4_18/slides.pptx"
+references.video     = ""
+references.code      = "https://github.com/Chair-for-Security-Engineering/SAIREDA"
+references.artifacts = ""
+references.website   = ""
+
+[[journal.publication]]
+title                = "Generic Hardware Private Circuits. Towards Automated Generation of Composable Secure Gadgets"
+authors              = [ "David Knichel", "Pascal Sasdrich", "Amir Moradi" ]
+published            = "2021-11-19"
+presented            = "2022-09-19"
+venue                = "tches"
+issue                = "Issue 1"
+references.preprint  = "https://eprint.iacr.org/2021/247.pdf"
+references.paper     = "https://tches.iacr.org/index.php/TCHES/article/view/9299/8865"
+references.doi       = "https://doi.org/10.46586/tches.v2022.i1.323-344"
+references.slides    = "https://iacr.org/submit/files/slides/2022/tches/ches2022/1_26/slides.pdf"
+references.video     = ""
+references.code      = "https://github.com/Chair-for-Security-Engineering/GHPC"
+references.artifacts = ""
+references.website   = ""
+
+[[journal.publication]]
+title                = "Automated Generation of Masked Hardware"
+authors              = [ "David Knichel", "Amir Moradi", "Nicolai Müller", "Pascal Sasdrich" ]
+published            = "2021-11-19"
+presented            = "2022-09-19"
+venue                = "tches"
+issue                = "Issue 1"
+references.preprint  = "https://eprint.iacr.org/2021/569.pdf"
+references.paper     = "https://tches.iacr.org/index.php/TCHES/article/view/9308/8874"
+references.doi       = "https://doi.org/10.46586/tches.v2022.i1.589-629"
+references.slides    = "https://iacr.org/submit/files/slides/2022/tches/ches2022/1_55/slides.pdf"
+references.video     = ""
+references.code      = "https://github.com/Chair-for-Security-Engineering/AGEMA"
+references.artifacts = ""
+references.website   = ""
+
+[[journal.publication]]
+title                = "FIVER - Robust Verification of Countermeasures against Fault Injections"
+authors              = [ "Jan Richter-Brockmann", "Aein Rezaei Shahmirzadi", "Pascal Sasdrich", "Amir Moradi", "Tim Güneysu" ]
+published            = "2021-08-11"
+presented            = "2021-09-17"
+venue                = "tches"
+issue                = "Issue 4"
+references.preprint  = "https://eprint.iacr.org/2021/936.pdf"
+references.paper     = "https://tches.iacr.org/index.php/TCHES/article/view/9072/8659"
+references.doi       = "https://doi.org/10.46586/tches.v2021.i4.447-473"
+references.slides    = ""
+references.video     = "https://youtube.com/watch?v=M9TVJyzd7gA"
+references.code      = "https://github.com/Chair-for-Security-Engineering/FIVER"
+references.artifacts = "https://artifacts.iacr.org/tches/2021/a16/"
+references.website   = ""
+
+[[journal.publication]]
+title                = "SKINNY-AEAD and SKINNY-Hash"
+authors              = [ "Christof Beierle", "Jérémy Jean", "Stefan Kölbl", "Gregor Leander", "Amir Moradi", "Thomas Peyrin", "Yu Sasaki", "Pascal Sasdrich", "Siang Meng Sim" ]
+published            = "2020-06-22"
+presented            = "2020-11-12"
+venue                = "tosc"
+issue                = "Issue 1"
+references.preprint  = ""
+references.paper     = "https://tosc.iacr.org/index.php/ToSC/article/view/8619/8185"
+references.doi       = "https://doi.org/10.13154/TOSC.V2020.IS1.88-131"
+references.slides    = ""
+references.video     = "https://tosc.iacr.org/index.php/ToSC/article/view/8619/11366"
+references.code      = ""
+references.artifacts = ""
+references.website   = ""
+
+[[journal.publication]]
+title                = "Low-Latency Hardware Masking with Application to AES"
+authors              = [ "Pascal Sasdrich", "Begül Bilgin", "Michael Hutter", "Mark E. Marson" ]
+published            = "2020-03-02"
+presented            = "2020-09-18"
+venue                = "tches"
+issue                = "Issue 2"
+references.preprint  = ""
+references.paper     = "https://tches.iacr.org/index.php/TCHES/article/view/8553/8118"
+references.doi       = "https://doi.org/10.13154/TCHES.V2020.I2.300-326"
+references.slides    = ""
+references.video     = "https://www.youtube.com/watch?v=JgX0pS1N-nY"
+references.code      = ""
+references.artifacts = ""
+references.website   = ""
+
+[[journal.publication]]
+title                = "Exploring RFC 7748 for Hardware Implementation: Curve25519 and Curve448 with Side-Channel Protection"
+authors              = [ "Pascal Sasdrich", "Tim Güneysu" ]
+published            = "2018-09-26"
+venue                = "hass"
+issue                = "2.4"
+references.preprint  = ""
+references.paper     = "https://link.springer.com/article/10.1007/s41635-018-0048-z"
+references.doi       = "https://doi.org/10.1007/S41635-018-0048-Z"
+references.slides    = ""
+references.video     = ""
+references.code      = ""
+references.artifacts = ""
+references.website   = ""
+
+[[journal.publication]]
+title                = "Implementing Curve25519 for Side-Channel-Protected Elliptic Curve Cryptography"
+authors              = [ "Pascal Sasdrich", "Tim Güneysu" ]
+published            = "2015-11-04"
+venue                = "acmtrets"
+issue                = "9.1"
+references.preprint  = ""
+references.paper     = "https://dl.acm.org/doi/pdf/10.1145/2700834"
+references.doi       = "https://doi.org/10.1145/2700834"
+references.slides    = ""
+references.video     = ""
+references.code      = ""
+references.artifacts = ""
+references.website   = ""
+
+# =============================================================================
+
+[conference]
+
+[[conference.publication]]
+title                = "Formal Definition and Verification for Combined Random Fault and Random Probing Security"
+authors              = [ "Sonia Belaid", "Jakob Feldtkeller", "Tim Güneysu", "Anna Guinet", "Jan Richter-Brockmann", "Matthieu Rivain", "Pascal Sasdrich", "Abdul Rahman Taleb" ]
+published            = "2024-12-09"
+presented            = "2024-12-11"
+venue                = "asiacrypt"
+issue                = ""
+references.preprint  = "https://eprint.iacr.org/2024/757"
+references.paper     = "https://link.springer.com/chapter/10.1007/978-981-96-0941-3_6"
+references.doi       = "https://doi.org/10.1007/978-981-96-0941-3_6"
+references.slides    = "https://iacr.org/submit/files/slides/2024/asiacrypt/asiacrypt2024/146/146_slides.pptx"
+references.video     = ""
+references.code      = ""
+references.artifacts = ""
+references.website   = ""
+
+[[conference.publication]]
+title                = "Evaluating an Open-Source Hardware Approach from HDL to GDS for a Security Chip Design - a Review of the Final Stage of Project HEP"
+authors              = [ "Tim Henkes", "Steffen Reith", "Marc Stöttinger", "Norbert Herfurth", "Goran Panic", "Julian Wälde", "Fabian Buschkowski", "Pascal Sasdrich", "Christoph Lüth", "Milan Funck", "Tuba Kiyan", "Arnd Weber", "Detlef Boeck", "René Rathfelder", "Torsten Grawunder" ]
+published            = "2024-06-10"
+venue                = "date"
+references.preprint  = ""
+references.paper     = ""
+references.doi       = "https://doi.org/10.23919/DATE58400.2024.10546500"
+references.slides    = ""
+references.video     = ""
+references.code      = ""
+references.artifacts = ""
+references.website   = ""
+
+[[conference.publication]]
+title                = "EasiMask - Towards Efficient, Automated, and Secure Implementation of Masking in Hardware"
+authors              = [ "Fabian Buschkowski", "Pascal Sasdrich", "Tim Güneysu" ]
+published            = "2023-06-02"
+venue                = "date"
+references.preprint  = ""
+references.paper     = "https://ieeexplore.ieee.org/document/10137330"
+references.doi       = "https://doi.org/10.23919/DATE56975.2023.10137330"
+references.slides    = ""
+references.video     = ""
+references.code      = ""
+references.artifacts = ""
+references.website   = ""
+
+[[conference.publication]]
+title                = "Recommendation for a Holistic Secure Embedded ISA Extension"
+authors              = [ "Florian Stolz", "Marc Fyrbiak", "Pascal Sasdrich", "Tim Güneysu" ]
+published            = "2023-05-28"
+venue                = "acns"
+references.preprint  = ""
+references.paper     = "https://link.springer.com/chapter/10.1007/978-3-031-33491-7_3"
+references.doi       = "https://doi.org/10.1007/978-3-031-33491-7_3"
+references.slides    = ""
+references.video     = ""
+references.code      = ""
+references.artifacts = ""
+references.website   = ""
+
+[[conference.publication]]
+title                = "Combined Private Circuits - Combined Security Refurbished"
+authors              = [ "Jakob Feldtkeller", "Tim Güneysu", "Thorben Moos", "Jan Richter-Brockmann", "Sayandeep Saha", "Pascal Sasdrich", "Francois-Xavier Standaert" ]
+published            = "2023-11-21"
+venue                = "acmccs"
+references.preprint  = "https://eprint.iacr.org/2023/1341.pdf"
+references.paper     = "https://dl.acm.org/doi/10.1145/3576915.3623129"
+references.doi       = "https://doi.org/10.1145/3576915.3623129"
+references.slides    = ""
+references.video     = ""
+references.code      = ""
+references.artifacts = ""
+references.website   = ""
+
+[[conference.publication]]
+title                = "CINI MINIS: Domain Isolation for Fault and Combined Security"
+authors              = [ "Jakob Feldtkeller", "Jan Richter-Brockmann", "Pascal Sasdrich", "Tim Güneysu" ]
+published            = "2022-11-07"
+venue                = "acmccs"
+references.preprint  = "https://eprint.iacr.org/2022/1131.pdf"
+references.paper     = "https://dl.acm.org/doi/10.1145/3548606.3560614"
+references.doi       = "https://doi.org/10.1145/3548606.3560614"
+references.slides    = ""
+references.video     = ""
+references.code      = ""
+references.artifacts = ""
+references.website   = ""
+
+[[conference.publication]]
+title                = "A Hard Crystal - Implementing Dilithium on Reconfigurable Hardware"
+authors              = [ "Georg Land", "Pascal Sasdrich", "Tim Güneysu" ]
+published            = "2022-03-09"
+presented            = "2021-11-11"
+venue                = "cardis"
+references.preprint  = "https://eprint.iacr.org/2021/355.pdf"
+references.paper     = "https://link.springer.com/chapter/10.1007/978-3-030-97348-3_12"
+references.doi       = "https://doi.org/10.1007/978-3-030-97348-3_12"
+references.slides    = ""
+references.video     = ""
+references.code      = ""
+references.artifacts = ""
+references.website   = ""
+
+[[conference.publication]]
+title                = "SILVER - Statistical Independence and Leakage Verification"
+authors              = [ "David Knichel", "Pascal Sasdrich", "Amir Moradi" ]
+published            = "2020-12-06"
+presented            = "2020-12-08"
+venue                = "asiacrypt"
+references.preprint  = "https://eprint.iacr.org/2020/634.pdf"
+references.paper     = "https://link.springer.com/chapter/10.1007/978-3-030-64837-4_26"
+references.doi       = "https://doi.org/chapter/10.1007/978-3-030-64837-4_26"
+references.slides    = "https://iacr.org/submit/files/slides/2020/asiacrypt/ac2020/261/slides.pdf"
+references.video     = "https://www.youtube.com/watch?v=pectS8FcdAY"
+references.code      = "https://github.com/Chair-for-Security-Engineering/SILVER/"
+references.artifacts = ""
+references.website   = ""
+
+[[conference.publication]]
+title                = "Concurrent Error Detection Revisited: Hardware Protection against Fault and Side-Channel Attacks"
+authors              = [ "Jan Richter-Brockmann", "Florian Bache", "Pascal Sasdrich", "Tim Güneysu" ]
+published            = "2020-08-25"
+venue                = "ares"
+references.preprint  = ""
+references.paper     = "https://dl.acm.org/doi/10.1145/3407023.3407046"
+references.doi       = "https://doi.org/10.1145/3407023.3407046"
+references.slides    = ""
+references.video     = ""
+references.code      = ""
+references.artifacts = ""
+references.website   = ""
+
+[[conference.publication]]
+title                = "Protecting Triple-DES Against DPA - A Practical Application of Domain-Oriented Masking"
+authors              = [ "Pascal Sasdrich", "Michael Hutter" ]
+published            = "2018-04-11"
+venue                = "cosade"
+references.preprint  = ""
+references.paper     = "https://link.springer.com/chapter/10.1007/978-3-319-89641-0_12"
+references.doi       = "https://doi.org/10.1007/978-3-319-89641-0_12"
+references.slides    = ""
+references.video     = ""
+references.code      = ""
+references.artifacts = ""
+references.website   = ""
+
+[[conference.publication]]
+title                = "Threshold Implementation in Software - Case Study of PRESENT"
+authors              = [ "Pascal Sasdrich", "René Bock", "Amir Moradi" ]
+published            = "2018-04-11"
+venue                = "cosade"
+references.preprint  = "https://eprint.iacr.org/2018/189.pdf"
+references.paper     = "https://link.springer.com/chapter/10.1007/978-3-319-89641-0_13"
+references.doi       = "https://doi.org/10.1007/978-3-319-89641-0_13"
+references.slides    = ""
+references.video     = ""
+references.code      = ""
+references.artifacts = ""
+references.website   = ""
+
+[[conference.publication]]
+title                = "Bit-Sliding: A Generic Technique for Bit-Serial Implementations of SPN-based Primitives - Applications to AES, PRESENT and SKINNY"
+authors              = [ "Jérémy Jean", "Amir Moradi", "Thomas Peyrin", "Pascal Sasdrich" ]
+published            = "2017-08-25"
+venue                = "ches"
+references.preprint  = "https://eprint.iacr.org/2017/600.pdf"
+references.paper     = "https://link.springer.com/chapter/10.1007/978-3-319-66787-4_33"
+references.doi       = "https://doi.org/10.1007/978-3-319-66787-4_33"
+references.slides    = ""
+references.video     = ""
+references.code      = ""
+references.artifacts = ""
+references.website   = ""
+
+[[conference.publication]]
+title                = "Cryptography for Next Generation TLS: Implementing the RFC 7748 Elliptic Curve448 Cryptosystem in Hardware"
+authors              = [ "Pascal Sasdrich", "Tim Güneysu" ]
+published            = "2017-06-18"
+venue                = "dac"
+references.preprint  = "https://eprint.iacr.org/2016/352.pdf"
+references.paper     = "https://dl.acm.org/doi/10.1145/3061639.3062222"
+references.doi       = "https://doi.org/10.1145/3061639.3062222"
+references.slides    = ""
+references.video     = ""
+references.code      = ""
+references.artifacts = ""
+references.website   = ""
+
+[[conference.publication]]
+title                = "Hiding Higher-Order Side-Channel Leakage - Randomizing Cryptographic Implementations in Reconfigurable Hardware"
+authors              = [ "Pascal Sasdrich", "Amir Moradi", "Tim Güneysu" ]
+published            = "2017-01-10"
+venue                = "ctrsa"
+references.preprint  = "https://eprint.iacr.org/2016/1111.pdf"
+references.paper     = "https://link.springer.com/chapter/10.1007/978-3-319-52153-4_8"
+references.doi       = "https://doi.org/10.1007/978-3-319-52153-4_8"
+references.slides    = ""
+references.video     = ""
+references.code      = ""
+references.artifacts = ""
+references.website   = ""
+
+[[conference.publication]]
+title                = "White-Box Cryptography in the Gray Box - A Hardware Implementation and its Side Channels"
+authors              = [ "Pascal Sasdrich", "Amir Moradi", "Tim Güneysu" ]
+published            = "2016-07-20"
+venue                = "fse"
+references.preprint  = "https://eprint.iacr.org/2016/203.pdf"
+references.paper     = "https://link.springer.com/chapter/10.1007/978-3-662-52993-5_10"
+references.doi       = "https://doi.org/10.1007/978-3-662-52993-5_10"
+references.slides    = ""
+references.video     = ""
+references.code      = ""
+references.artifacts = ""
+references.website   = ""
+
+[[conference.publication]]
+title                = "The SKINNY Family of Block Ciphers and Its Low-Latency Variant MANTIS"
+authors              = [ "Christof Beierle", "Jérémy Jean", "Stefan Kölbl", "Gregor Leander", "Amir Moradi", "Thomas Peyrin", "Yu Sasaki", "Pascal Sasdrich", "Siang Meng Sim" ]
+published            = "2016-07-21"
+venue                = "crypto"
+references.preprint  = "https://eprint.iacr.org/2016/660.pdf"
+references.paper     = "https://link.springer.com/chapter/10.1007/978-3-662-53008-5_5"
+references.doi       = "https://doi.org/10.1007/978-3-662-53008-5_5"
+references.slides    = ""
+references.video     = ""
+references.code      = ""
+references.artifacts = ""
+references.website   = ""
+
+[[conference.publication]]
+title                = "A grain in the silicon: SCA-protected AES in less than 30 slices"
+authors              = [ "Pascal Sasdrich", "Tim Güneysu" ]
+published            = "2016-12-01"
+venue                = "asap"
+references.preprint  = ""
+references.paper     = "https://ieeexplore.ieee.org/document/7760769"
+references.doi       = "https://doi.org/10.1109/ASAP.2016.7760769"
+references.slides    = ""
+references.video     = ""
+references.code      = ""
+references.artifacts = ""
+references.website   = ""
+
+[[conference.publication]]
+title                = "Affine Equivalence and Its Application to Tightening Threshold Implementations"
+authors              = [ "Pascal Sasdrich", "Amir Moradi", "Tim Güneysu" ]
+published            = "2015-08-14"
+venue                = "sac"
+references.preprint  = "https://eprint.iacr.org/2015/749.pdf"
+references.paper     = "https://link.springer.com/chapter/10.1007/978-3-319-31301-6_16"
+references.doi       = "https://doi.org/10.1007/978-3-319-31301-6_16"
+references.slides    = ""
+references.video     = ""
+references.code      = ""
+references.artifacts = ""
+references.website   = ""
+
+[[conference.publication]]
+title                = "Achieving side-channel protection with dynamic logic reconfiguration on modern FPGAs"
+authors              = [ "Pascal Sasdrich", "Amir Moradi", "Oliver Mischke", "Tim Güneysu" ]
+published            = "2015-07-02"
+venue                = "host"
+references.preprint  = "https://eprint.iacr.org/2015/203.pdf"
+references.paper     = "https://ieeexplore.ieee.org/document/7140251"
+references.doi       = "https://doi.org/10.1109/HST.2015.7140251"
+references.slides    = ""
+references.video     = ""
+references.code      = ""
+references.artifacts = ""
+references.website   = ""
+
+[[conference.publication]]
+title                = "Side-Channel Protection by Randomizing Look-Up Tables on Reconfigurable Hardware - Pitfalls of Memory Primitives"
+authors              = [ "Pascal Sasdrich", "Oliver Mischke", "Amir Moradi", "Tim Güneysu" ]
+published            = "2015-07-17"
+venue                = "cosade"
+references.preprint  = "https://eprint.iacr.org/2015/198.pdf"
+references.paper     = "https://link.springer.com/chapter/10.1007/978-3-319-21476-4_7"
+references.doi       = "https://doi.org/10.1007/978-3-319-21476-4_7"
+references.slides    = ""
+references.video     = ""
+references.code      = ""
+references.artifacts = ""
+references.website   = ""
+
+[[conference.publication]]
+title                = "THOR - The hardware onion router"
+authors              = [ "Tim Güneysu", "Francesco Regazzoni", "Pascal Sasdrich", "Marcin Wójcik" ]
+published            = "2014-10-20"
+venue                = "fpl"
+references.preprint  = ""
+references.paper     = "https://ieeexplore.ieee.org/document/6927408"
+references.doi       = "https://doi.org/10.1109/FPL.2014.6927408"
+references.slides    = ""
+references.video     = ""
+references.code      = ""
+references.artifacts = ""
+references.website   = ""
+
+[[conference.publication]]
+title                = "Efficient Elliptic-Curve Cryptography Using Curve25519 on Reconfigurable Devices"
+authors              = [ "Pascal Sasdrich", "Tim Güneysu" ]
+published            = "2014-04-14"
+venue                = "arc"
+references.preprint  = ""
+references.paper     = "https://link.springer.com/chapter/10.1007/978-3-319-05960-0_3"
+references.doi       = "https://doi.org/10.1007/978-3-319-05960-0_3"
+references.slides    = ""
+references.video     = ""
+references.code      = ""
+references.artifacts = ""
+references.website   = ""
+
+# =============================================================================
+
+[preprint]
+
+[[preprint.publication]]
+title                = "INDIANA - Verifying (Random) Probing Security through Indistinguishability Analysis"
+authors              = [ "Christof Beierle", "Jakob Feldtkeller", "Anna Guinet", "Tim Günyesu", "Gregor Leander", "Jan Richter-Brockmann", "Pascal Sasdrich" ]
+published            = "2024-05-31"
+venue                = "eprint"
+issue                = "833"
+references.preprint  = "https://eprint.iacr.org/2024/833"
+references.paper     = ""
+references.doi       = ""
+references.slides    = ""
+references.video     = ""
+references.code      = ""
+references.artifacts = ""
+references.website   = ""
+
+[[preprint.publication]]
+title                = "HADES: Automated Hardware Design Exploration for Cryptographic Primitives"
+authors              = [ "Fabian Buschkowski", "Georg Land", "Jan Richter-Brockmann", "Pascal Sasdrich", "Tim Güneysu" ]
+published            = "2024-01-30"
+venue                = "eprint"
+issue                = "130"
+references.preprint  = "https://eprint.iacr.org/2024/130"
+references.paper     = ""
+references.doi       = ""
+references.slides    = ""
+references.video     = ""
+references.code      = ""
+references.artifacts = ""
+references.website   = ""

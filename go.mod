@@ -1,12 +1,9 @@
-module github.com/wowchemy/starter-hugo-academic
+module sasdrich.com
 
-go 1.15
+go 1.21.6
 
 require (
-	github.com/HugoBlox/hugo-blox-builder/modules/blox-bootstrap/v5 v5.9.8-0.20240527185548-8d25fbed122c // indirect
-	github.com/HugoBlox/hugo-blox-builder/modules/blox-plugin-netlify v1.1.2-0.20240527185548-8d25fbed122c // indirect
-	github.com/HugoBlox/hugo-blox-builder/modules/blox-plugin-reveal v1.1.3-0.20240527185548-8d25fbed122c // indirect
-	github.com/hugomods/icons/vendors/bootstrap v0.5.1 // indirect
-	github.com/hugomods/icons/vendors/font-awesome v0.6.1 // indirect
-	github.com/hugomods/icons/vendors/simple-icons v1.0.20 // indirect
+	github.com/hugomods/icons/vendors/bootstrap v0.5.8 // indirect
+	github.com/hugomods/icons/vendors/font-awesome v0.6.9 // indirect
+    github.com/hugomods/icons/vendors/simple-icons v1.0.59
 )

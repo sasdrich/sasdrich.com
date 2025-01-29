@@ -1,0 +1,67 @@
+:root {
+    --color-link: #215f25;
+    --color-visited-link: #215f35;
+    --body-font-color: #525252;
+}
+
+body {
+  font-family: "Helvetica Neue", Arial, Helvetica, sans-serif;
+  font-size: 14px;
+}
+
+.profileIcon {
+  padding: 0px 1px;
+}
+
+.profileIcon:hover {  
+  color: #215f25;
+}
+
+img {
+    border-radius: 5px;
+}
+
+.hi-svg-inline {
+  margin: 0 .125em;
+}
+
+.listContainer {
+  width:100%;
+  display:flex;
+  padding:5px 0px;
+}
+
+.listTag {
+  color: #808080;
+  flex: 0 0 120px;
+  text-align: right;
+  margin-right: 15px;
+}
+
+.listElem {
+  flex: 1;
+}
+
+.tag {
+  // font-size: .9rem;
+  margin-left: 5px;
+  color: var(--color-link);
+  // line-height: 1rem;
+}
+
+.tag:before {
+  content: "[";
+  color: #252525;
+  margin-right: 2px;
+}
+
+.tag:after {
+  content: "]";
+  color: #252525;
+  margin-left: 2px;
+}
+
+ul li p {
+  padding: 0px;
+  margin: 0px;
+}

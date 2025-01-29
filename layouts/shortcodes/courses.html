@@ -1,0 +1,17 @@
+{{ $teachings := slice }}
+{{ range $courses := .Site.Data.courses }}
+{{ range $courses.semester}}
+{{ $course := dict "name" $courses.name }}
+{{ $teachings = $teachings | append (merge . $course)}}
+{{ end }}
+{{ end }}
+ 
+{{ range sort $teachings "start" "desc"}}
+{{ $start := .start.Year }}
+{{ $end := .end.Year }}
+
+<div class="listContainer">
+    <div class="listTag">{{ .term }} Semester {{ .start.Year }}{{ if not (eq $start $end) }}/{{ .end.Year }}{{ end }}</div>
+    <div class="listElem"><b>{{ .name }}</b> {{ .type }} in the {{ .program }} at the {{ .location }}. <span class="tag">{{ .level }}</span></div>
+</div>
+{{ end }}
