@@ -1,10 +1,14 @@
 {{ $services := index .Site.Data.services (.Get 0) }}
 {{ $venues := .Site.Data.venues.venue}}
 
-{{ range $services }}
+{{ range sort $services "year" "desc" }}
+{{ $year := .year }}
 
-{{ $venue := index $venues (index (split . ".") 0) }}
-{{ $event := index $venue (index (split . ".") 1) }}
+{{ range sort .venues . "desc"}}
+{{ $venue := .}}
+
+{{ $venue := index $venues $venue }}
+{{ $event := index $venue $year }}
 {{ $link  := $venue.link }}{{ with $event.link }}{{ $link = $event.link }}{{ end }}
 
 <div class="listContainer">
@@ -16,3 +20,7 @@
 </div>
 
 {{ end }}
+
+{{ end }}
+
+    

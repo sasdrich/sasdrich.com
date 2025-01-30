@@ -1,28 +1,57 @@
-editorialboard = [
-    "tches.2021",
-    "tches.2022",
-    "tches.2023",
-    "tches.2024",
-    "tches.2025"
-]
+[[editorialboard]]
+year   = "2021"
+venues = ["tches"]
 
-organizer = [
-    "steve.2023"
-]
+[[editorialboard]]
+year   = "2022"
+venues = ["tches"]
 
-pcchair = [
-    "cascade.2025",
-    "fdtc.2023"
-]
+[[editorialboard]]
+year   = "2023"
+venues = ["tches"]
 
-pcmember = [
-    "cardis.2021",
-    "cardis.2022",
-    "cardis.2023",
-    "cosade.2023",
-    "cosade.2024",
-    "date.2024",
-    "date.2025",
-    "fdtc.2024",
-    "space.2024"
-]
+[[editorialboard]]
+year   = "2024"
+venues = ["tches"]
+
+[[editorialboard]]
+year   = "2025"
+venues = ["tches"]
+
+# =============================================================================
+
+[[pcchair]]
+year   = "2023"
+venues = ["fdtc"]
+
+[[pcchair]]
+year   = "2025"
+venues = ["cascade"]
+
+# =============================================================================
+
+[[pcmember]]
+year   = "2021"
+venues = ["cardis"]
+
+[[pcmember]]
+year   = "2022"
+venues = ["cardis"]
+
+[[pcmember]]
+year   = "2023"
+venues = ["cardis", "cosade"]
+
+[[pcmember]]
+year   = "2024"
+venues = ["cosade", "date", "fdtc", "space"]
+
+[[pcmember]]
+year   = "2025"
+venues = ["date"]
+
+# =============================================================================
+
+[[organizer]]
+year   = "2023"
+venues  = ["steve"]
