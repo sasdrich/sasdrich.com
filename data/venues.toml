@@ -222,6 +222,18 @@ link  = "https://eprint.iacr.org"
 
 # =============================================================================
 
+[venue.eurocrypt]
+short = "Eurocrypt"
+title = "Annual International Conference on the Theory and Applications of Cryptographic Techniques"
+
+[venue.eurocrypt.2025]
+start    = 2025-05-04
+end      = 2025-05-08
+link     = "https://eurocrypt.iacr.org/2025/"
+location = "Madrid, Spain"
+
+# =============================================================================
+
 [venue.fdtc]
 title     = "Fault Diagnosis and Tolerance in Cryptography"
 short    = "FDTC"

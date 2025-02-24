@@ -224,6 +224,21 @@ references.website   = ""
 [conference]
 
 [[conference.publication]]
+title                = "INDIANA - Verifying (Random) Probing Security through Indistinguishability Analysis"
+authors              = [ "Christof Beierle", "Jakob Feldtkeller", "Anna Guinet", "Tim Günyesu", "Gregor Leander", "Jan Richter-Brockmann", "Pascal Sasdrich" ]
+published            = "2025-02-24"
+venue                = "eurocrypt"
+issue                = ""
+references.preprint  = "https://eprint.iacr.org/2024/833"
+references.paper     = ""
+references.doi       = ""
+references.slides    = ""
+references.video     = ""
+references.code      = ""
+references.artifacts = ""
+references.website   = ""
+
+[[conference.publication]]
 title                = "Formal Definition and Verification for Combined Random Fault and Random Probing Security"
 authors              = [ "Sonia Belaid", "Jakob Feldtkeller", "Tim Güneysu", "Anna Guinet", "Jan Richter-Brockmann", "Matthieu Rivain", "Pascal Sasdrich", "Abdul Rahman Taleb" ]
 published            = "2024-12-09"
@@ -538,21 +553,6 @@ references.website   = ""
 # =============================================================================
 
 [preprint]
-
-[[preprint.publication]]
-title                = "INDIANA - Verifying (Random) Probing Security through Indistinguishability Analysis"
-authors              = [ "Christof Beierle", "Jakob Feldtkeller", "Anna Guinet", "Tim Günyesu", "Gregor Leander", "Jan Richter-Brockmann", "Pascal Sasdrich" ]
-published            = "2024-05-31"
-venue                = "eprint"
-issue                = "833"
-references.preprint  = "https://eprint.iacr.org/2024/833"
-references.paper     = ""
-references.doi       = ""
-references.slides    = ""
-references.video     = ""
-references.code      = ""
-references.artifacts = ""
-references.website   = ""
 
 [[preprint.publication]]
 title                = "HADES: Automated Hardware Design Exploration for Cryptographic Primitives"
