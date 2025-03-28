@@ -4,8 +4,8 @@ name        = "Implementing Cryptographic Schemes"
 [[ikv.semester]]
 start    = 2024-10-01
 end      = 2025-03-31
-term     = "Winter"
-type     = "Lecture with Exercise"
+term     = "Winter Semester 2024/2025"
+type     = "Lecture with exercise"
 program  = "IT Security study program"
 level    = "Bachelor"
 location = "Faculty of Computer Science, Ruhr-Universität Bochum, Germany"
@@ -13,8 +13,8 @@ location = "Faculty of Computer Science, Ruhr-Universität Bochum, Germany"
 [[ikv.semester]]
 start    = 2023-10-01
 end      = 2024-03-31
-term     = "Winter"
-type     = "Lecture with Exercise"
+term     = "Winter Semester 2023/2024"
+type     = "Lecture with exercise"
 program  = "IT Security study program"
 level    = "Bachelor"
 location = "Faculty of Computer Science, Ruhr-Universität Bochum, Germany"
@@ -22,8 +22,8 @@ location = "Faculty of Computer Science, Ruhr-Universität Bochum, Germany"
 [[ikv.semester]]
 start    = 2022-10-01
 end      = 2023-03-31
-term     = "Winter"
-type     = "Lecture with Exercise"
+term     = "Winter Semester 2022/2023"
+type     = "Lecture with exercise"
 program  = "IT Security study program"
 level    = "Bachelor"
 location = "Faculty of Computer Science, Ruhr-Universität Bochum, Germany"
@@ -36,8 +36,8 @@ name        = "Processor Security"
 [[prosec.semester]]
 start    = 2024-04-01
 end      = 2024-09-30
-term     = "Summer"
-type     = "Lecture with Exercise"
+term     = "Summer Semester 2024"
+type     = "Lecture with exercise"
 program  = "IT Security study program"
 level    = "Master"
 location = "Faculty of Computer Science, Ruhr-Universität Bochum, Germany"
@@ -45,8 +45,22 @@ location = "Faculty of Computer Science, Ruhr-Universität Bochum, Germany"
 [[prosec.semester]]
 start    = 2023-04-01
 end      = 2023-09-30
-term     = "Summer"
-type     = "Lecture with Exercise"
+term     = "Summer Semester 2023"
+type     = "Lecture with exercise"
 program  = "IT Security study program"
 level    = "Master"
 location = "Faculty of Computer Science, Ruhr-Universität Bochum, Germany"
+
+# =============================================================================
+
+[ics]
+name    = "Implementing Cryptographic Schemes"
+
+[[ics.semester]]
+start    = 2025-03-17
+end      = 2025-03-28
+term     = "Academic Year 2024/2025"
+type     = "Lecture with exercise and programming sessions"
+program  = ""
+level    = "Master"
+location = "African Institute of Mathematical Sciencies (AIMS), Limbe, Cameroon"

@@ -11,7 +11,7 @@
 {{ $end := .end.Year }}
 
 <div class="listContainer">
-    <div class="listTag">{{ .term }} Semester {{ .start.Year }}{{ if not (eq $start $end) }}/{{ .end.Year }}{{ end }}</div>
-    <div class="listElem"><b>{{ .name }}</b> {{ .type }} in the {{ .program }} at the {{ .location }}. <span class="tag">{{ .level }}</span></div>
+    <div class="listTag">{{ .term }}</div>
+    <div class="listElem"><b>{{ .name }}</b> {{ .type }} {{ with .program }} in the {{ . }} {{ end }}at the {{ .location }}. <span class="tag">{{ .level }}</span></div>
 </div>
 {{ end }}
