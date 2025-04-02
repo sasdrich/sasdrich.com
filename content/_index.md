@@ -26,4 +26,4 @@ My current research focuses on *Hardware Security* and *Computer-Aided Security 
 
 </div>
 
-<!-- {{< news >}} -->
+{{< news >}}

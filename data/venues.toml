@@ -73,9 +73,16 @@ location = "Imperial College London, London, England"
 # =============================================================================
 
 [venue.asiacrypt]
-short = "ASIACRYPT"
+short = "Asiacrypt"
 title = "Advances in Cryptology"
 link  = "https://asiacrypt.iacr.org/"
+
+[venue.asiacrypt.2025]
+start    = 2025-12-08
+end      = 2025-12-12
+link     = "https://asiacrypt.iacr.org/2025/"
+location = "Melbourne, Australia"
+service  = "pcmember"
 
 # =============================================================================
 
