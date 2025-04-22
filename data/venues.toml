@@ -257,6 +257,12 @@ end      = 2024-09-04
 link     = "https://fdtc.deib.polimi.it/FDTC24/"
 location = "Halifax, Nova Scotia, Canada"
 
+[venue.fdtc.2025]
+start    = 2025-09-14
+end      = 2025-09-14
+link     = "https://fdtc.deib.polimi.it/FDTC25/"
+location = "Kuala Lumpur, Malaysia"
+
 # =============================================================================
 
 [venue.fpl]

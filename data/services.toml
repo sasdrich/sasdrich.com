@@ -48,11 +48,7 @@ venues = ["cosade", "date", "fdtc", "space"]
 
 [[pcmember]]
 year   = "2025"
-venues = ["date"]
-
-[[pcmember]]
-year   = "2025"
-venues = ["asiacrypt"]
+venues = ["asiacrypt", "date", "fdtc"]
 
 # =============================================================================
 

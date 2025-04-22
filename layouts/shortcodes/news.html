@@ -6,7 +6,7 @@
 <div style="display:flex;">
 <div style="flex: 0 0 20%;">{{ partial "docs/post-meta" . }}</div>
 <div style="flex: 1;">
-    <b>{{- .Params.post.title | markdownify -}}</b><br>
+    <b>{{- .Params.title | markdownify -}}</b><br>
     {{- .Params.post.description | markdownify -}}
     {{- .Params.post.summary | markdownify -}}
     {{ if .Truncated }}
