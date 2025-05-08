@@ -151,6 +151,12 @@ end      = 2015-04-14
 link     = "https://www.cosade.org/cosade19/cosade15/index.html"
 location = "Berlin, Germany"
 
+[venue.cosade.2018]
+start    = 2018-04-23
+end      = 2018-04-24
+link     = ""
+location = "Singapore"
+
 [venue.cosade.2023]
 start    = 2023-04-03
 end      = 2023-04-04
