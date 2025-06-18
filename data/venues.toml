@@ -346,6 +346,18 @@ location = "Infineon Technologies AG, Munich, Germany"
 
 # =============================================================================
 
+[venue.proact]
+short = "PROACT"
+title = "PROACT Training School"
+link  = "https://proact-school.cs.ru.nl"
+
+[venue.proact.2025]
+start    = 2025-06-02
+end      = 2025-06-05
+link     = "https://proact-school.cs.ru.nl"
+location = "Samaria Hotel, Chania, Crete, Greece"
+# =============================================================================
+
 [venue.sac]
 short = "SAC"
 title = "Selected Areas in Cryptography"

@@ -13,6 +13,11 @@ title  = "Computer-Aided Hardware Security Veriﬁcation"
 date   = 2022-09-22
 venue  = "verisicc"
 
+[[invited]]
+title  = "Automated Verification of Physical Security Properties"
+date   = 2025-06-04
+venue  = "proact"
+
 [[conference]]
 title  = "Efficient Elliptic-Curve Cryptography using Curve25519 on Reconfigurable Devices"
 date   = 2014-04-14

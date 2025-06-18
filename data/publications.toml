@@ -1,6 +1,21 @@
 [journal]
 
 [[journal.publication]]
+title                = "HADES: Automated Hardware Design Exploration for Cryptographic Primitives"
+authors              = [ "Fabian Buschkowski", "Georg Land", "Jan Richter-Brockmann", "Pascal Sasdrich", "Tim Güneysu" ]
+published            = "2025-06-15"
+venue                = "tches"
+issue                = "Issue 4"
+references.preprint  = "https://eprint.iacr.org/2024/130"
+references.paper     = ""
+references.doi       = ""
+references.slides    = ""
+references.video     = ""
+references.code      = ""
+references.artifacts = ""
+references.website   = ""
+
+[[journal.publication]]
 title                = "Combined Threshold Implementation"
 authors              = [ "Jakob Feldtkeller", "Jan Richter-Brockmann", "Pascal Sasdrich", "Tim Güneysu" ]
 published            = "2024-09-05"
@@ -553,18 +568,3 @@ references.website   = ""
 # =============================================================================
 
 [preprint]
-
-[[preprint.publication]]
-title                = "HADES: Automated Hardware Design Exploration for Cryptographic Primitives"
-authors              = [ "Fabian Buschkowski", "Georg Land", "Jan Richter-Brockmann", "Pascal Sasdrich", "Tim Güneysu" ]
-published            = "2024-01-30"
-venue                = "eprint"
-issue                = "130"
-references.preprint  = "https://eprint.iacr.org/2024/130"
-references.paper     = ""
-references.doi       = ""
-references.slides    = ""
-references.video     = ""
-references.code      = ""
-references.artifacts = ""
-references.website   = ""
