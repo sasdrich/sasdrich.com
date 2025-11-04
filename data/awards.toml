@@ -1,13 +1,22 @@
+
+[casa-pi]
+title = "Principle Investigator (PI)"
+description = "at the Cluster of Excellence for *CASA – Securing the Digital Society* at the Ruhr-University Bochum (RUB)."
+start = 2026-01-01
+end = ""
+link = "https://casa.rub.de/"
+
 [it-sicherheitspreis]
 title = "German IT Security Prize (100.000 €)"
 description = "awarded by the Horst Görtz Stiftung (1st place)."
 start = 2022-11-10
 link = "https://www.deutscher-it-sicherheitspreis.de/"
 
-[casa-pi]
+[casa-api]
 title = "Associate Principle Investigator (PI)"
 description = "at the Cluster of Excellence for *Cyber Security in the Age of Large Scale Adversaries (CASA)* at the Ruhr-University Bochum (RUB)."
 start = 2023-01-01
+end = 2025-12-31
 link = "https://casa.rub.de/"
 
 [junges-kolleg]

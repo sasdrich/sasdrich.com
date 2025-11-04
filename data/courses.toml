@@ -2,6 +2,15 @@
 name        = "Implementing Cryptographic Schemes"
 
 [[ikv.semester]]
+start    = 2025-10-01
+end      = 2026-03-31
+term     = "Winter Semester 2025/2026"
+type     = "Lecture with exercise"
+program  = "IT Security study program"
+level    = "Bachelor"
+location = "Faculty of Computer Science, Ruhr-Universität Bochum, Germany"
+
+[[ikv.semester]]
 start    = 2024-10-01
 end      = 2025-03-31
 term     = "Winter Semester 2024/2025"

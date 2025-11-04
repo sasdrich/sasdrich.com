@@ -400,6 +400,12 @@ short    = "TCHES"
 title    = "IACR Transactions on Cryptographic Hardware and Embedded Systems"
 link     = "https://tches.iacr.org/"
 
+[venue.tches.2026]
+start    = 2026-10-11
+end      = 2026-10-15
+link     = "https://ches.iacr.org/2026"
+location = "Türkiye"
+
 [venue.tches.2025]
 start    = 2025-09-14
 end      = 2025-09-18
