@@ -1,6 +1,21 @@
 [journal]
 
 [[journal.publication]]
+title                = "Combined Indistinguishability Analysis - Verifying random probing leakage under random faults"
+authors              = [ "Armand Schinkel", "Pascal Sasdrich" ]
+published            = "2026-01-15"
+venue                = "tches"
+issue                = "Issue 2"
+references.preprint  = "https://eprint.iacr.org/2026/084"
+references.paper     = ""
+references.doi       = ""
+references.slides    = ""
+references.video     = ""
+references.code      = ""
+references.artifacts = ""
+references.website   = ""
+
+[[journal.publication]]
 title                = "HADES: Automated Hardware Design Exploration for Cryptographic Primitives"
 authors              = [ "Fabian Buschkowski", "Georg Land", "Jan Richter-Brockmann", "Pascal Sasdrich", "Tim Güneysu" ]
 published            = "2025-06-15"
