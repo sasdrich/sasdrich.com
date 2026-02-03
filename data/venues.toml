@@ -245,6 +245,12 @@ end      = 2025-05-08
 link     = "https://eurocrypt.iacr.org/2025/"
 location = "Madrid, Spain"
 
+[venue.eurocrypt.2026]
+start    = 2026-05-10
+end      = 2026-05-14
+link     = "https://eurocrypt.iacr.org/2026/"
+location = "Rome, Italy"
+
 # =============================================================================
 
 [venue.fdtc]

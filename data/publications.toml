@@ -254,6 +254,21 @@ references.website   = ""
 [conference]
 
 [[conference.publication]]
+title                = "PaCMan – Partition-Code Masking for Combined Security"
+authors              = [ "Fabian Buschkowski", "Elisabeth Krahmer", "Jakob Feldtkeller", "Jan Richter-Brockmann", "Pascal Sasdrich", "Tim Güneysu" ]
+published            = "2026-01-29"
+venue                = "eurocrypt"
+issue                = ""
+references.preprint  = ""
+references.paper     = ""
+references.doi       = ""
+references.slides    = ""
+references.video     = ""
+references.code      = ""
+references.artifacts = ""
+references.website   = ""
+
+[[conference.publication]]
 title                = "INDIANA - Verifying (Random) Probing Security through Indistinguishability Analysis"
 authors              = [ "Christof Beierle", "Jakob Feldtkeller", "Anna Guinet", "Tim Günyesu", "Gregor Leander", "Jan Richter-Brockmann", "Pascal Sasdrich" ]
 published            = "2025-02-24"
