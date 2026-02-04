@@ -1,6 +1,6 @@
 +++
-# tags        = [ "Invited Talk" ]
-categories  = [ "Presentations" ]
+categories  = [ "News" ]
+tags        = [ "Presentations" ]
 date        = "2025-04-22"
 title       = "PROACT Training School 2025 (invited talk)"
 

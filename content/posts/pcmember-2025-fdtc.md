@@ -1,6 +1,7 @@
 +++
 # tags        = [ "PC Member" ]
-categories  = [ "Scientific Activities" ]
+categories  = [ "News" ]
+tags        = [ "Scientific Activities" ]
 date        = "2025-04-07"
 title       = "FDTC 2025 (PC Member)"
 

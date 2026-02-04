@@ -1,5 +1,6 @@
 +++
-categories  = [ "Lectures" ]
+categories  = [ "News" ]
+tags        = [ "Lectures" ]
 date        = "2026-01-26"
 title       = "Implementing Cryptographic Schemes (Course)"
 

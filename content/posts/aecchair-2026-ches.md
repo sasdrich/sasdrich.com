@@ -1,6 +1,6 @@
 +++
-# tags        = [ "PC Member" ]
-categories  = [ "Scientific Activities" ]
+categories  = [ "News" ]
+tags        = [ "Scientific Activities" ]
 date        = "2025-09-01"
 title       = "CHES 2026 (Artifact Evaluation Committee Co-Chair)"
 

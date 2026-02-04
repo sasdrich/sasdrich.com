@@ -1,6 +1,6 @@
 +++
-# tags        = [ "Accepted Paper" ]
-categories  = [ "Publications" ]
+categories  = [ "News" ]
+tags        = [ "Publications" ]
 date        = "2026-01-12"
 title       = "TCHES 2026.2 (accepted paper)"
 

@@ -1,6 +1,6 @@
 +++
-# tags        = [ "Accepted Paper" ]
-categories  = [ "Publications" ]
+categories  = [ "News" ]
+tags        = [ "Publications" ]
 date        = "2025-02-24"
 title       = "EUROCRYPT 2025 (accepted paper)"
 

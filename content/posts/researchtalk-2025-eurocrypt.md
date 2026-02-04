@@ -1,6 +1,7 @@
 +++
 # tags        = [ "Research Talk" ]
-categories  = [ "Presentations" ]
+categories  = [ "News" ]
+tags        = [ "Presentations" ]
 date        = "2025-05-04"
 title       = "Eurocrypt 2025 (research talk)"
 

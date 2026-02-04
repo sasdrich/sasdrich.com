@@ -1,6 +1,6 @@
 +++
-# tags        = [ "PC Member" ]
-categories  = [ "Scientific Activities" ]
+categories  = [ "News" ]
+tags        = [ "Scientific Activities" ]
 date        = "2025-04-02"
 title       = "ASIACRYPT 2025 (PC Member)"
 

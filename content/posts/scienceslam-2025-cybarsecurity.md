@@ -1,6 +1,7 @@
 +++
 # tags        = [ "Research Talk" ]
-categories  = [ "Presentations" ]
+categories  = [ "News" ]
+tags        = [ "Presentations" ]
 date        = "2025-07-01"
 title       = "CyBARsecurity (science slam)"
 

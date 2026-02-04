@@ -20,9 +20,9 @@ My current research focuses on *Hardware Security* and *Computer-Aided Security 
 
 <div style="width:75%;margin:50px auto;">
 
-{{% hint info %}}
-<h3><b>I am looking for excellent students interested in working on topics related to hardware security and computer-aided security verification.</b></h3>
-{{% /hint %}}
+<!-- {{% hint info %}}
+<h3><b>I am looking for excellent students interested in working on topics related to hardware security, cryptographic engineering, or computer-aided security verification.</b></h3>
+{{% /hint %}} -->
 
 </div>
 
