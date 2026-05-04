@@ -84,6 +84,13 @@ link     = "https://asiacrypt.iacr.org/2025/"
 location = "Melbourne, Australia"
 service  = "pcmember"
 
+[venue.asiacrypt.2026]
+start    = 2026-12-07
+end      = 2026-12-11
+link     = "https://asiacrypt.iacr.org/2026/"
+location = "Hong Kong, China"
+service  = "pcmember"
+
 # =============================================================================
 
 [venue.cardis]
@@ -274,6 +281,12 @@ start    = 2025-09-14
 end      = 2025-09-14
 link     = "https://fdtc.deib.polimi.it/FDTC25/"
 location = "Kuala Lumpur, Malaysia"
+
+[venue.fdtc.2026]
+start    = 2026-10-11
+end      = 2026-10-11
+link     = "https://fdtc.deib.polimi.it/FDTC26/"
+location = "Antalya, Türkiye"
 
 # =============================================================================
 

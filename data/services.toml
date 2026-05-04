@@ -50,6 +50,10 @@ venues = ["cosade", "date", "fdtc", "space"]
 year   = "2025"
 venues = ["asiacrypt", "date", "fdtc"]
 
+[[pcmember]]
+year   = "2026"
+venues = ["asiacrypt", "fdtc"]
+
 # =============================================================================
 
 [[aecchair]]
