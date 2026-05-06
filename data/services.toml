@@ -18,6 +18,10 @@ venues = ["tches"]
 year   = "2025"
 venues = ["tches"]
 
+[[editorialboard]]
+year   = "2027"
+venues = ["tches"]
+
 # =============================================================================
 
 [[pcchair]]
