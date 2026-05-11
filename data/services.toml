@@ -56,7 +56,7 @@ venues = ["asiacrypt", "date", "fdtc"]
 
 [[pcmember]]
 year   = "2026"
-venues = ["asiacrypt", "fdtc"]
+venues = ["asiacrypt", "fdtc", "optimist"]
 
 # =============================================================================
 

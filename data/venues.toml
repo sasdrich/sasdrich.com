@@ -365,6 +365,19 @@ location = "Infineon Technologies AG, Munich, Germany"
 
 # =============================================================================
 
+[venue.optimist]
+short = "OPTIMIST"
+title = "Open Tools, Interfaces and Metrics for Implementation Security Testing"
+link  = "https://optimist-ose.org"
+
+[venue.optimist.2026]
+start    = 2026-10-11
+end      = 2026-10-11
+link     = "https://optimist-ose.org/ches26/"
+location = "Antalya, Türkiye"
+
+# =============================================================================
+
 [venue.proact]
 short = "PROACT"
 title = "PROACT Training School"
