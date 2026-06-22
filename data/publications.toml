@@ -598,3 +598,17 @@ references.website   = ""
 # =============================================================================
 
 [preprint]
+
+[[preprint.publication]]
+title                = "A Billion Hard CRYSTALS: Exploring Practical Aspects of Arithmetic Masking for PQC in Hardware"
+authors              = [ "Fabian Buschkowski", "Niklas Höher", "Pascal Sasdrich", "Tim Güneysu" ]
+published            = "2026-06-19"
+venue                = "eprint"
+references.preprint  = "https://eprint.iacr.org/2026/1265"
+references.paper     = ""
+references.doi       = ""
+references.slides    = ""
+references.video     = ""
+references.code      = ""
+references.artifacts = ""
+references.website   = ""
