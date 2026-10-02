@@ -1,5 +1,8 @@
 ---
-title: Biography
+title: Pascal Sasdrich
+linkTitle: Biography
+seoTitle: "Pascal Sasdrich – Hardware Security, Ruhr-Universität Bochum"
+description: "Pascal Sasdrich heads the CAVE research group at Ruhr-Universität Bochum (DFG Emmy Noether Programme), working on hardware security and computer-aided security engineering."
 ---
 
 # Biography

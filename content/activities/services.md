@@ -1,5 +1,6 @@
 ---
 title: Community Services
+description: "Program committees, chairs, editorial boards and event organization by Pascal Sasdrich."
 weight: 10
 
 bookFlatSection: true

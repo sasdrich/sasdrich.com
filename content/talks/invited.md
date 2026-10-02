@@ -1,5 +1,6 @@
 ---
 title: Invited Talks
+description: "Invited talks by Pascal Sasdrich, with slides where available."
 weight: 10
 
 bookFlatSection: true

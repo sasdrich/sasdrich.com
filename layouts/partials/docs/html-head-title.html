@@ -1,0 +1,5 @@
+{{- with .Params.seoTitle -}}
+  {{ . }}
+{{- else -}}
+  {{ partial "docs/title" . }}{{ if and .IsPage .Parent (not .Parent.IsHome) }} – {{ partial "docs/title" .Parent }}{{ end }} | {{ .Site.Title -}}
+{{- end -}}

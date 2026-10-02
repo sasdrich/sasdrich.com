@@ -1,5 +1,6 @@
 ---
 title: Honors and Awards
+description: "Honors, awards and appointments of Pascal Sasdrich."
 weight: 20
 
 bookFlatSection: true
