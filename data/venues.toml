@@ -207,7 +207,7 @@ link  = "https://dac.com/"
 [venue.date]
 short = "DATE"
 title = "Design, Automation & Test in Europe"
-link  = "http://date-conference.com"
+link  = "https://www.date-conference.com"
 
 [venue.date.2024]
 start    = 2024-03-25
@@ -373,7 +373,7 @@ link  = "https://optimist-ose.org"
 [venue.optimist.2026]
 start    = 2026-10-11
 end      = 2026-10-11
-link     = "https://optimist-ose.org/ches26/"
+link     = "https://optimist-ose.org"
 location = "Antalya, Türkiye"
 
 # =============================================================================

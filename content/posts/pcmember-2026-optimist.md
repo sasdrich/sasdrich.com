@@ -6,7 +6,7 @@ date        = "2026-05-11"
 title       = "OPTIMIST 2026 (PC Member)"
 
 [post]
-description = "I will serve as a Program Committee member for the [OPTIMIST 2026](https://optimist-ose.org/ches26/) workshop."
+description = "I will serve as a Program Committee member for the [OPTIMIST 2026](https://optimist-ose.org) workshop."
 
 [settings]
 menu        = "news"
