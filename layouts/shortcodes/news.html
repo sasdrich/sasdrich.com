@@ -1,27 +1,8 @@
-<h2 id="news">Latest News <a class="anchor" href="#news">#</a></h2>
+<h2 id="news">News <a class="anchor" href="#news">#</a></h2>
 
-{{ $posts := where .Site.RegularPages "Section" "posts" }}
-{{ $posts = where $posts "Params.settings.newsHidden" "!=" true }}
-{{ range first 5 $posts }}
-<article class="markdown book-post">
-<div class="newsItem">
-<div class="newsMeta">{{ partial "docs/post-meta" . }}</div>
-<div class="newsBody">
-    <b>{{- .Params.title | markdownify -}}</b><br>
-    {{- .Params.post.description | markdownify -}}
-    {{- .Params.post.summary | markdownify -}}
-    {{ if .Truncated }}
-        <a href="{{ .RelPermalink }}">...</a>
-    {{ end }}
+{{ range sort .Site.Data.news.item "date" "desc" }}
+<div class="listContainer">
+    <div class="listTag">{{ time.Format "Jan 2, 2006" .date }}</div>
+    <div class="listElem"><b>{{ .title }}.</b> {{ .description | markdownify }}</div>
 </div>
-</div>
-</article>
-
 {{ end }}
-
-<div class="newsItem">
-<div class="newsMeta"></div>
-<div class="newsBody">
-<a href="{{ .Site.BaseURL }}categories/News">more news ...</a>
-</div>
-</div>

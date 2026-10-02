@@ -2,6 +2,24 @@
 title: Pascal Sasdrich
 linkTitle: Biography
 seoTitle: "Pascal Sasdrich – Hardware Security, Ruhr University Bochum"
+# Old news pages and lists now redirect to the home page
+aliases:
+  - /posts/
+  - /categories/News/
+  - /posts/aecchair-2026-ches/
+  - /posts/invitedtalk-2025-proact/
+  - /posts/lecture-2026-aims/
+  - /posts/paper-2025-indiana/
+  - /posts/paper-2026-cia/
+  - /posts/paper-2026-pacman/
+  - /posts/pcmember-2025-asiacrypt/
+  - /posts/pcmember-2025-fdtc/
+  - /posts/pcmember-2026-asiacrypt/
+  - /posts/pcmember-2026-fdtc/
+  - /posts/pcmember-2026-optimist/
+  - /posts/pcmember-2027-tches/
+  - /posts/researchtalk-2025-eurocrypt/
+  - /posts/scienceslam-2025-cybarsecurity/
 description: "Pascal Sasdrich heads the CAVE research group at Ruhr University Bochum (DFG Emmy Noether Programme), working on hardware security and computer-aided security engineering."
 ---
 
