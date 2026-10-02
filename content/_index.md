@@ -15,7 +15,7 @@ description: "Pascal Sasdrich heads the CAVE research group at Ruhr University B
 
 </div>
 
-I am head of the research group on *Computer-Aided Verification of Physical Security Properties (CAVE)* hosted at the [Faculty of Computer Science](https://informatik.rub.de/en/), [Ruhr University Bochum](https://ruhr-uni-bochum.de/en), Germany. My group is funded by the [Deutsche Forschungsgemeinschaft](https://www.dfg.de/en/) (DFG, German Research Foundation) as part of the [Emmy Noether Programme](https://www.dfg.de/en/research_funding/programmes/individual/emmy_noether/index.html).
+I am head of the research group on *Computer-Aided Verification of Physical Security Properties (CAVE)* hosted at the [Faculty of Computer Science](https://informatik.rub.de/en/), [Ruhr University Bochum](https://ruhr-uni-bochum.de/en), Germany. My group is funded by the [Deutsche Forschungsgemeinschaft](https://www.dfg.de/en/) (DFG, German Research Foundation) as part of the [Emmy Noether Programme](https://www.dfg.de/en/research_funding/programmes/individual/emmy_noether/index.html). In addition, I am a Principal Investigator (PI) at the Cluster of Excellence [*CASA – Securing the Digital Society*](https://casa.rub.de/).
 
 Before, I worked as a Senior Hardware Security Engineer at the Rambus Cryptography Research Group located in Rotterdam, The Netherlands. I obtained my PhD (Dr.-Ing.) in 2018 on the topic of *Cryptographic Hardware Agility for Physical Protection* under the supervision of Prof. Dr.-Ing. Tim Güneysu at the Ruhr University Bochum, Germany.
 
