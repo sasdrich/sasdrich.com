@@ -18,3 +18,7 @@
 -}}
 <script type="application/ld+json">{{ $person | jsonify | safeJS }}</script>
 {{- end -}}
+
+{{- if and (not .Description) .Params.post.description }}
+<meta property="og:description" content="{{ .Params.post.description | markdownify | plainify | htmlUnescape }}">
+{{- end -}}
