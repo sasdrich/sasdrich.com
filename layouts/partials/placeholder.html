@@ -1,0 +1,6 @@
+{{- /* Placeholder note, shown only with `hugo server` (never in the published site) */ -}}
+{{- if hugo.IsServer }}
+<blockquote class="book-hint warning">
+<b>Placeholder</b> (only visible locally with <code>hugo server</code>): {{ .text | markdownify }}
+</blockquote>
+{{- end }}

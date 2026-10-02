@@ -129,3 +129,17 @@ ul li p {
     gap: 0px 10px;
   }
 }
+
+
+// Sidebar menu: section titles in bold, entries indented (like the old file-tree menu)
+.book-menu a.menu-section {
+  font-weight: bold;
+}
+
+.book-menu nav > ul > li {
+  margin-bottom: 1em;
+}
+
+.book-menu nav > ul > li > ul {
+  padding-inline-start: 0;
+}

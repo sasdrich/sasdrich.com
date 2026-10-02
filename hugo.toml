@@ -40,6 +40,99 @@ disableKinds = ['taxonomy']
   # Experimental: service worker for offline use
   BookServiceWorker = false
 
+# Sidebar menu: links to the sections of the single home page
+[menu]
+  [[menu.before]]
+    name       = 'Biography'
+    identifier = 'Biography'
+    url        = '/#biography'
+    weight     = 10
+    [menu.before.params]
+      class = 'menu-section'
+  [[menu.before]]
+    name       = 'News'
+    identifier = 'News'
+    url        = '/#news'
+    weight     = 20
+    [menu.before.params]
+      class = 'menu-section'
+  [[menu.before]]
+    name       = 'Publications'
+    identifier = 'Publications'
+    url        = '/#publications'
+    weight     = 30
+    [menu.before.params]
+      class = 'menu-section'
+  [[menu.before]]
+    name       = 'Journal Articles'
+    identifier = 'PublicationsJournal Articles'
+    url        = '/#journals'
+    weight     = 31
+    parent     = 'Publications'
+  [[menu.before]]
+    name       = 'Conferences and Workshops'
+    identifier = 'PublicationsConferences and Workshops'
+    url        = '/#conferences'
+    weight     = 32
+    parent     = 'Publications'
+  [[menu.before]]
+    name       = 'Preprints and Technical Reports'
+    identifier = 'PublicationsPreprints and Technical Reports'
+    url        = '/#preprints'
+    weight     = 33
+    parent     = 'Publications'
+  [[menu.before]]
+    name       = 'Presentations'
+    identifier = 'Presentations'
+    url        = '/#talks'
+    weight     = 40
+    [menu.before.params]
+      class = 'menu-section'
+  [[menu.before]]
+    name       = 'Invited Talks'
+    identifier = 'PresentationsInvited Talks'
+    url        = '/#invited'
+    weight     = 41
+    parent     = 'Presentations'
+  [[menu.before]]
+    name       = 'Conferences and Workshops'
+    identifier = 'PresentationsConferences and Workshops'
+    url        = '/#presentations'
+    weight     = 42
+    parent     = 'Presentations'
+  [[menu.before]]
+    name       = 'Teaching'
+    identifier = 'Teaching'
+    url        = '/#teaching'
+    weight     = 50
+    [menu.before.params]
+      class = 'menu-section'
+  [[menu.before]]
+    name       = 'Lectures and Courses'
+    identifier = 'TeachingLectures and Courses'
+    url        = '/#courses'
+    weight     = 51
+    parent     = 'Teaching'
+  [[menu.before]]
+    name       = 'Scientific Activities'
+    identifier = 'Scientific Activities'
+    url        = '/#activities'
+    weight     = 60
+    [menu.before.params]
+      class = 'menu-section'
+  [[menu.before]]
+    name       = 'Community Services'
+    identifier = 'Scientific ActivitiesCommunity Services'
+    url        = '/#services'
+    weight     = 61
+    parent     = 'Scientific Activities'
+  [[menu.before]]
+    name       = 'Honors and Awards'
+    identifier = 'Scientific ActivitiesHonors and Awards'
+    url        = '/#awards'
+    weight     = 62
+    parent     = 'Scientific Activities'
+
 [module]
   [[module.imports]]
     path = 'github.com/hugomods/icons/vendors/font-awesome'

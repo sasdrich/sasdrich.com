@@ -6,7 +6,6 @@ bookFlatSection: false
 bookHidden: false
 bookToc: false
 weight: 10
+# Content moved to the home page; this URL redirects there
+bookHref: "/#journals"
 ---
-
-# Peer-Reviewed Journal Articles
-{{% publications "journal" %}}

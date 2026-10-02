@@ -22,3 +22,9 @@
 {{- if and (not .Description) .Params.post.description }}
 <meta property="og:description" content="{{ .Params.post.description | markdownify | plainify | htmlUnescape }}">
 {{- end -}}
+
+
+{{- /* Old sub-pages only redirect to the home page */}}
+{{- if .Params.bookHref }}
+<meta name="robots" content="noindex">
+{{- end -}}

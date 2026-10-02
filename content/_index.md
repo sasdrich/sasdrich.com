@@ -29,4 +29,71 @@ My current research focuses on *Hardware Security* and *Computer-Aided Security 
 
 </div>
 
+{{< cv title="Short Bio" >}}
+Sonia Belaïd shows a short CV timeline here (years | position or degree). To fill it, add entries to `data/cv.toml` (start, end, title, description) — they are then listed automatically instead of this note.
+{{< /cv >}}
+
+{{< placeholder title="Research" >}}
+Short overview of research topics and current projects (e.g. the CAVE group and the Emmy Noether project), as on Sonia Belaïd's "Research" page.
+{{< /placeholder >}}
+
 {{< news >}}
+
+## Publications {#publications}
+
+### Journal Articles {#journals}
+{{% publications "journal" %}}
+
+### Conferences and Workshops {#conferences}
+{{% publications "conference" %}}
+
+### Preprints and Technical Reports {#preprints}
+{{% publications "preprint" %}}
+
+## Presentations {#talks}
+
+### Invited Talks {#invited}
+{{% talks "invited" %}}
+
+### Conferences and Workshops {#presentations}
+{{% talks "conference" %}}
+
+{{< placeholder title="Theses" >}}
+PhD thesis *Cryptographic Hardware Agility for Physical Protection* (2018) with links to the manuscript, slides or video, as in the "Thesis" section of Sonia Belaïd's talks page.
+{{< /placeholder >}}
+
+## Teaching {#teaching}
+
+### Lectures and Courses {#courses}
+{{% courses %}}
+
+## Scientific Activities {#activities}
+
+### Community Services {#services}
+
+#### Program Chair
+I am or was (co-)chair of the program committees of the following workshops, conferences, and schools.
+{{% services "pcchair" %}}
+
+#### Program Committee
+I am or was member of the program committees of the following workshops, conferences, and schools.
+{{% services "pcmember" %}}
+
+#### Editorial Board
+I am or was member of the editorial boards of the following journals.
+{{% services "editorialboard" %}}
+
+#### Artifact Evaluation Chair
+I am or was (co-)chair of the artifact evaluation committees of the following workshops, conferences, and schools.
+{{% services "aecchair" %}}
+
+#### (Co-)Organization
+I am or was (co-)organizer of the following workshops, conferences, and schools.
+{{% services "organizer" %}}
+
+### Honors and Awards {#awards}
+{{% awards %}}
+
+{{< grants title="Grants" >}}
+Funded projects with funder, duration and link (e.g. DFG Emmy Noether Programme), as in Sonia Belaïd's "Awards / Grants" and "ERC" pages. To fill it, add entries to `data/grants.toml` — they are then listed automatically instead of this note.
+{{< /grants >}}

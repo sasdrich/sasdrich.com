@@ -9,7 +9,6 @@ bookHidden: false
 bookCollapseSection: false
 bookComments: false
 bookSearchExclude: false
+# Content moved to the home page; this URL redirects there
+bookHref: "/#presentations"
 ---
-
-# Conferences and Workshops
-{{% talks "conference" %}}

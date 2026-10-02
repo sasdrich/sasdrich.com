@@ -6,7 +6,6 @@ bookFlatSection: false
 bookHidden: false
 bookToc: false
 weight: 20
+# Content moved to the home page; this URL redirects there
+bookHref: "/#conferences"
 ---
-
-# Peer-Reviewed Proceedings in Conferences and Workshops
-{{% publications "conference" %}}

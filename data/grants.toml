@@ -1,0 +1,9 @@
+# Funded projects, shown as "Grants" on the home page (newest first).
+# Uncomment and fill in; `end` and `link` are optional.
+#
+# [[grant]]
+# start       = 2020
+# end         = 2026
+# title       = "Project title"
+# description = "funded by the Deutsche Forschungsgemeinschaft (DFG) as part of the Emmy Noether Programme."
+# link        = "https://..."

@@ -1,4 +1,4 @@
-<h2>Latest News</h2>
+<h2 id="news">Latest News <a class="anchor" href="#news">#</a></h2>
 
 {{ $posts := where .Site.RegularPages "Section" "posts" }}
 {{ $posts = where $posts "Params.settings.newsHidden" "!=" true }}

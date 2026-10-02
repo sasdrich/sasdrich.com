@@ -6,7 +6,6 @@ bookFlatSection: false
 bookHidden: false
 bookToc: false
 weight: 30
+# Content moved to the home page; this URL redirects there
+bookHref: "/#preprints"
 ---
-
-# Preprints and Technical Reports
-{{% publications "preprint" %}}

@@ -1,0 +1,6 @@
+{{- /* Section that does not exist yet: heading and note only with `hugo server` */ -}}
+{{- if hugo.IsServer }}
+{{- $id := .Get "title" | anchorize }}
+<h3 id="{{ $id }}">{{ .Get "title" }} <a class="anchor" href="#{{ $id }}">#</a></h3>
+{{ partial "placeholder.html" (dict "text" (.Inner | strings.TrimSpace)) }}
+{{- end }}

@@ -1,0 +1,16 @@
+{{- /* Short CV timeline from data/cv.toml; placeholder note while it is empty */ -}}
+{{- $entries := .Site.Data.cv.entry }}
+{{- if or $entries hugo.IsServer }}
+{{- $id := .Get "title" | anchorize }}
+<h3 id="{{ $id }}">{{ .Get "title" }} <a class="anchor" href="#{{ $id }}">#</a></h3>
+{{- end }}
+{{- with $entries }}
+{{- range sort . "start" "desc" }}
+<div class="listContainer">
+    <div class="listTag">{{ .start }}{{ with .end }} - {{ . }}{{ end }}</div>
+    <div class="listElem"><b>{{ .title }}</b> {{ .description | markdownify }}</div>
+</div>
+{{- end }}
+{{- else }}
+{{- partial "placeholder.html" (dict "text" (.Inner | strings.TrimSpace)) }}
+{{- end }}

@@ -1,0 +1,8 @@
+# Short CV timeline, shown as "Short Bio" on the home page (newest first).
+# Uncomment and fill in; years are plain numbers or strings, `end` is optional.
+#
+# [[entry]]
+# start       = 2018
+# end         = ""
+# title       = "Position or degree"
+# description = "at Institution, City, Country."
