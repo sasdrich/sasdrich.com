@@ -1,7 +1,8 @@
 <h2>Latest News</h2>
 
-{{ range first 5 (where .Site.RegularPages "Section" "posts")}}
-{{ if not (index .Params.settings "newsHidden") }}
+{{ $posts := where .Site.RegularPages "Section" "posts" }}
+{{ $posts = where $posts "Params.settings.newsHidden" "!=" true }}
+{{ range first 5 $posts }}
 <article class="markdown book-post">
 <div class="newsItem">
 <div class="newsMeta">{{ partial "docs/post-meta" . }}</div>
@@ -16,7 +17,6 @@
 </div>
 </article>
 
-{{ end }}
 {{ end }}
 
 <div class="newsItem">
