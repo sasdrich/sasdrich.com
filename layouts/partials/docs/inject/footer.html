@@ -1,0 +1,4 @@
+{{- /* The site is rebuilt on every push, so the build date is the date of the last change */ -}}
+<div class="siteFooter">
+  &copy; {{ now.Year }} {{ .Site.Title }} &middot; Last modified: {{ now | time.Format .Site.Params.BookDateFormat }}
+</div>
