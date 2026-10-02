@@ -1,4 +1,4 @@
-<h1>Latest News</h1>
+<h2>Latest News</h2>
 
 {{ range first 5 (where .Site.RegularPages "Section" "posts")}}
 {{ if not (index .Params.settings "newsHidden") }}

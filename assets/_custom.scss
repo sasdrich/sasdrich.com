@@ -9,6 +9,16 @@ body {
   font-size: 14px;
 }
 
+.menuHeading {
+  margin: 10px 0px;
+  font-size: 1em;
+  font-weight: bold;
+}
+
+.menuAddress {
+  font-style: normal;
+}
+
 .profileIcon {
   padding: 0px 1px;
 }
@@ -32,7 +42,7 @@ img {
 }
 
 .listTag {
-  color: #808080;
+  color: #666666;
   flex: 0 0 120px;
   text-align: right;
   margin-right: 15px;

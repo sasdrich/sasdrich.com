@@ -1,8 +1,10 @@
-<div style="margin: 10px 0px;font-weight:bold">Office Address</div>
+<h3 class="menuHeading">Office Address</h3>
+<address class="menuAddress">
 <div>Ruhr-Universität Bochum</div>
 <div>Universitätsstraße 150</div>
 <div>Room MB 3.89</div>
 <div>44801 Bochum</div>
+</address>
 
 <div style="margin:20px 0px;">
     {{ $mail := dict "vendor" "simple-icons" "name" "minutemailer" "size" "1.25em" "color" "#215f25"}}
@@ -11,10 +13,10 @@
     {{ $scholar := dict "vendor" "simple-icons" "name" "googlescholar" "size" "1.25em" "color" "#215f25"}}
     {{ $linkedin := dict "vendor" "simple-icons" "name" "linkedin" "size" "1.25em" "color" "#215f25"}}
     {{ $github := dict "vendor" "simple-icons" "name" "github" "size" "1.25em" "color" "#215f25"}}
-    <a href="mailto:pascal.sasdrich@rub.de" class="profileIcon">{{ partial "icons/icon" $mail }}</a>
-    <a href="https://orcid.org/0000-0002-5443-626X" class="profileIcon">{{ partial "icons/icon" $orcid }}</a>
-    <a href="https://dblp.org/pid/144/2489.html" class="profileIcon">{{ partial "icons/icon" $dblp }}</a>
-    <a href="https://scholar.google.com/citations?user=ODY-nGgAAAAJ" class="profileIcon">{{ partial "icons/icon" $scholar }}</a>
-    <a href="https://www.linkedin.com/in/pascal-sasdrich-8ba499179/" class="profileIcon">{{ partial "icons/icon" $linkedin }}</a>
-    <a href="https://github.com/sasdrich" class="profileIcon">{{ partial "icons/icon" $github }}</a>
+    <a href="mailto:pascal.sasdrich@rub.de" class="profileIcon" aria-label="Email" title="Email">{{ partial "icons/icon" $mail }}</a>
+    <a href="https://orcid.org/0000-0002-5443-626X" class="profileIcon" aria-label="ORCID" title="ORCID">{{ partial "icons/icon" $orcid }}</a>
+    <a href="https://dblp.org/pid/144/2489.html" class="profileIcon" aria-label="DBLP" title="DBLP">{{ partial "icons/icon" $dblp }}</a>
+    <a href="https://scholar.google.com/citations?user=ODY-nGgAAAAJ" class="profileIcon" aria-label="Google Scholar" title="Google Scholar">{{ partial "icons/icon" $scholar }}</a>
+    <a href="https://www.linkedin.com/in/pascal-sasdrich-8ba499179/" class="profileIcon" aria-label="LinkedIn" title="LinkedIn">{{ partial "icons/icon" $linkedin }}</a>
+    <a href="https://github.com/sasdrich" class="profileIcon" aria-label="GitHub" title="GitHub">{{ partial "icons/icon" $github }}</a>
 </div>
