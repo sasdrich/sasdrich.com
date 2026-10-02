@@ -4,12 +4,12 @@ date   = 2016-09-06
 venue  = "ecc"
 
 [[invited]]
-title  = "Statistical Independence and Leakage Veriﬁcation (SILVER)"
+title  = "Statistical Independence and Leakage Verification (SILVER)"
 date   = 2021-02-24
 venue  = "iscwsisc"
 
 [[invited]]
-title  = "Computer-Aided Hardware Security Veriﬁcation"
+title  = "Computer-Aided Hardware Security Verification"
 date   = 2022-09-22
 venue  = "verisicc"
 

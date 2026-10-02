@@ -1,6 +1,6 @@
 
 [casa-pi]
-title = "Principle Investigator (PI)"
+title = "Principal Investigator (PI)"
 description = "at the Cluster of Excellence for *CASA – Securing the Digital Society* at the Ruhr-University Bochum (RUB)."
 start = 2026-01-01
 end = ""
@@ -13,7 +13,7 @@ start = 2022-11-10
 link = "https://www.deutscher-it-sicherheitspreis.de/"
 
 [casa-api]
-title = "Associate Principle Investigator (PI)"
+title = "Associate Principal Investigator (PI)"
 description = "at the Cluster of Excellence for *Cyber Security in the Age of Large Scale Adversaries (CASA)* at the Ruhr-University Bochum (RUB)."
 start = 2023-01-01
 end = 2025-12-31
@@ -21,7 +21,7 @@ link = "https://casa.rub.de/"
 
 [junges-kolleg]
 title = "Admission to the Young College"
-description = "of the [Nordrhein-Westfälische Akademie der Wissenschaft und der Künste](https://www.awk.nrw/)."
+description = "of the [Nordrhein-Westfälische Akademie der Wissenschaften und der Künste](https://www.awk.nrw/)."
 start = 2024-01-01
 end = 2027-12-31
 link = "https://www.awk.nrw/news/jk/gesichter-des-jungen-kollegs-dr-ing-pascal-sasdrich"

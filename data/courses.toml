@@ -81,7 +81,7 @@ term     = "Academic Year 2024/2025"
 type     = "Lecture with exercise and programming sessions"
 program  = ""
 level    = "Master"
-location = "African Institute of Mathematical Sciencies (AIMS), Limbe, Cameroon"
+location = "African Institute of Mathematical Sciences (AIMS), Limbe, Cameroon"
 
 [[ics.semester]]
 start    = 2026-01-26
@@ -90,4 +90,4 @@ term     = "Academic Year 2025/2026"
 type     = "Lecture with exercise and programming sessions"
 program  = ""
 level    = "Master"
-location = "African Institute of Mathematical Sciencies (AIMS), Limbe, Cameroon"
+location = "African Institute of Mathematical Sciences (AIMS), Limbe, Cameroon"
