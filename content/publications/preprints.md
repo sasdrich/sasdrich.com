@@ -1,6 +1,6 @@
 ---
 title: Preprints and Technical Reports
-description: "Preprints and technical reports by Pascal Sasdrich (Ruhr-Universität Bochum)."
+description: "Preprints and technical reports by Pascal Sasdrich (Ruhr University Bochum)."
 bookCollapseSection: false
 bookFlatSection: false
 bookHidden: false

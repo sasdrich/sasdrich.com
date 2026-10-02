@@ -1,8 +1,8 @@
 ---
 title: Pascal Sasdrich
 linkTitle: Biography
-seoTitle: "Pascal Sasdrich – Hardware Security, Ruhr-Universität Bochum"
-description: "Pascal Sasdrich heads the CAVE research group at Ruhr-Universität Bochum (DFG Emmy Noether Programme), working on hardware security and computer-aided security engineering."
+seoTitle: "Pascal Sasdrich – Hardware Security, Ruhr University Bochum"
+description: "Pascal Sasdrich heads the CAVE research group at Ruhr University Bochum (DFG Emmy Noether Programme), working on hardware security and computer-aided security engineering."
 ---
 
 # Biography
@@ -15,9 +15,9 @@ description: "Pascal Sasdrich heads the CAVE research group at Ruhr-Universität
 
 </div>
 
-I am head of the research group on *Computer-Aided Verification of Physical Security Properties (CAVE)* hosted at the [Faculty of Computer Science](https://informatik.rub.de/en/), [Ruhr-Universität Bochum](https://ruhr-uni-bochum.de/en), Germany. My group is funded by the [Deutsche Forschungsgemeinschaft](https://www.dfg.de/en/) (DFG, German Research Foundation) as part of the [Emmy Noether Programme](https://www.dfg.de/en/research_funding/programmes/individual/emmy_noether/index.html).
+I am head of the research group on *Computer-Aided Verification of Physical Security Properties (CAVE)* hosted at the [Faculty of Computer Science](https://informatik.rub.de/en/), [Ruhr University Bochum](https://ruhr-uni-bochum.de/en), Germany. My group is funded by the [Deutsche Forschungsgemeinschaft](https://www.dfg.de/en/) (DFG, German Research Foundation) as part of the [Emmy Noether Programme](https://www.dfg.de/en/research_funding/programmes/individual/emmy_noether/index.html).
 
-Before, I worked as a Senior Hardware Security Engineer at the Rambus Cryptography Research Group located in Rotterdam, The Netherlands. I obtained my PhD (Dr.-Ing.) in 2018 on the topic of *Cryptographic Hardware Agility for Physical Protection* under the supervision of Prof. Dr.-Ing. Tim Güneysu at the Ruhr-Universität Bochum, Germany.
+Before, I worked as a Senior Hardware Security Engineer at the Rambus Cryptography Research Group located in Rotterdam, The Netherlands. I obtained my PhD (Dr.-Ing.) in 2018 on the topic of *Cryptographic Hardware Agility for Physical Protection* under the supervision of Prof. Dr.-Ing. Tim Güneysu at the Ruhr University Bochum, Germany.
 
 My current research focuses on *Hardware Security* and *Computer-Aided Security Engineering*. For this, I work on new concepts and approaches for *Hardware Security Verification* and *Security-Oriented Electronic Design Automation* to enable efficient and automated protection of hardware implementations through sophisticated and specialized security-aware design and verification tools.
 

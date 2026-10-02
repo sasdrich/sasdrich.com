@@ -1,7 +1,7 @@
 
 [casa-pi]
 title = "Principal Investigator (PI)"
-description = "at the Cluster of Excellence for *CASA – Securing the Digital Society* at the Ruhr-University Bochum (RUB)."
+description = "at the Cluster of Excellence for *CASA – Securing the Digital Society* at the Ruhr University Bochum (RUB)."
 start = 2026-01-01
 end = ""
 link = "https://casa.rub.de/"
@@ -14,7 +14,7 @@ link = "https://www.deutscher-it-sicherheitspreis.de/"
 
 [casa-api]
 title = "Associate Principal Investigator (PI)"
-description = "at the Cluster of Excellence for *Cyber Security in the Age of Large Scale Adversaries (CASA)* at the Ruhr-University Bochum (RUB)."
+description = "at the Cluster of Excellence for *Cyber Security in the Age of Large Scale Adversaries (CASA)* at the Ruhr University Bochum (RUB)."
 start = 2023-01-01
 end = 2025-12-31
 link = "https://casa.rub.de/"

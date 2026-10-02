@@ -8,7 +8,7 @@ term     = "Winter Semester 2025/2026"
 type     = "Lecture with exercise"
 program  = "IT Security study program"
 level    = "Bachelor"
-location = "Faculty of Computer Science, Ruhr-Universität Bochum, Germany"
+location = "Faculty of Computer Science, Ruhr University Bochum, Germany"
 
 [[ikv.semester]]
 start    = 2024-10-01
@@ -17,7 +17,7 @@ term     = "Winter Semester 2024/2025"
 type     = "Lecture with exercise"
 program  = "IT Security study program"
 level    = "Bachelor"
-location = "Faculty of Computer Science, Ruhr-Universität Bochum, Germany"
+location = "Faculty of Computer Science, Ruhr University Bochum, Germany"
 
 [[ikv.semester]]
 start    = 2023-10-01
@@ -26,7 +26,7 @@ term     = "Winter Semester 2023/2024"
 type     = "Lecture with exercise"
 program  = "IT Security study program"
 level    = "Bachelor"
-location = "Faculty of Computer Science, Ruhr-Universität Bochum, Germany"
+location = "Faculty of Computer Science, Ruhr University Bochum, Germany"
 
 [[ikv.semester]]
 start    = 2022-10-01
@@ -35,7 +35,7 @@ term     = "Winter Semester 2022/2023"
 type     = "Lecture with exercise"
 program  = "IT Security study program"
 level    = "Bachelor"
-location = "Faculty of Computer Science, Ruhr-Universität Bochum, Germany"
+location = "Faculty of Computer Science, Ruhr University Bochum, Germany"
 
 # =============================================================================
 
@@ -49,7 +49,7 @@ term     = "Summer Semester 2025"
 type     = "Lecture with exercise"
 program  = "IT Security study program"
 level    = "Master"
-location = "Faculty of Computer Science, Ruhr-Universität Bochum, Germany"
+location = "Faculty of Computer Science, Ruhr University Bochum, Germany"
 
 [[prosec.semester]]
 start    = 2024-04-01
@@ -58,7 +58,7 @@ term     = "Summer Semester 2024"
 type     = "Lecture with exercise"
 program  = "IT Security study program"
 level    = "Master"
-location = "Faculty of Computer Science, Ruhr-Universität Bochum, Germany"
+location = "Faculty of Computer Science, Ruhr University Bochum, Germany"
 
 [[prosec.semester]]
 start    = 2023-04-01
@@ -67,7 +67,7 @@ term     = "Summer Semester 2023"
 type     = "Lecture with exercise"
 program  = "IT Security study program"
 level    = "Master"
-location = "Faculty of Computer Science, Ruhr-Universität Bochum, Germany"
+location = "Faculty of Computer Science, Ruhr University Bochum, Germany"
 
 # =============================================================================
 

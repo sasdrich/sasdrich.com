@@ -1,6 +1,6 @@
 ---
 title: Lectures and Courses
-description: "Lectures and courses taught by Pascal Sasdrich at Ruhr-Universität Bochum and AIMS Cameroon."
+description: "Lectures and courses taught by Pascal Sasdrich at Ruhr University Bochum and AIMS Cameroon."
 weight: 10
 
 bookFlatSection: true
