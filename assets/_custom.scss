@@ -75,3 +75,57 @@ ul li p {
   padding: 0px;
   margin: 0px;
 }
+
+.bioPhoto {
+  float: right;
+  width: 400px;
+  max-width: 45%;
+  margin: -10px 0px 10px 25px;
+}
+
+.photoCredit {
+  font-size: 7pt;
+  color: rgba(0,0,0,0.54);
+  margin-top: -10px;
+  text-align: center;
+}
+
+.newsItem {
+  display: flex;
+}
+
+.newsMeta {
+  flex: 0 0 20%;
+}
+
+.newsBody {
+  flex: 1;
+}
+
+// Small screens: stack photo, list labels and news dates above the text
+@media screen and (max-width: 600px) {
+  .bioPhoto {
+    float: none;
+    width: 100%;
+    max-width: 400px;
+    margin: 0px auto 20px auto;
+  }
+
+  .listContainer,
+  .newsItem {
+    flex-direction: column;
+  }
+
+  .listTag {
+    flex: none;
+    text-align: left;
+    margin-right: 0px;
+  }
+
+  .newsMeta {
+    flex: none;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0px 10px;
+  }
+}

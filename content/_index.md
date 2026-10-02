@@ -7,11 +7,11 @@ description: "Pascal Sasdrich heads the CAVE research group at Ruhr-Universität
 
 # Biography
 
-<div style="float:right;width:400px;margin-left:25px;margin-top:-10px;margin-bottom:10px">
+<div class="bioPhoto">
 
 ![Pascal Sasdrich](/images/avatar.jpg)
 
-<div style="font-size: 7pt;color: rgba(0,0,0,0.54);margin-top:-10px; text-align:center">&copy; Nordrhein-Westfälische Akademie der Wissenschaften und der Künste |<br> Bettina Engel-Albustin 2023 (NRW AWK| Engel-Albustin)</div>
+<div class="photoCredit">&copy; Nordrhein-Westfälische Akademie der Wissenschaften und der Künste |<br> Bettina Engel-Albustin 2023 (NRW AWK| Engel-Albustin)</div>
 
 </div>
 
