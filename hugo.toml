@@ -13,6 +13,9 @@ enableGitInfo = false
 disableKinds = ['taxonomy']
 
 [params]
+  # Default preview image for social media (og:image)
+  images = ['images/avatar.jpg']
+
   # Color theme: light, dark or auto
   BookTheme = 'light'
 

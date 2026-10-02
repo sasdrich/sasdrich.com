@@ -1,0 +1,20 @@
+{{- if .IsHome -}}
+{{- $person := dict
+  "@context" "https://schema.org"
+  "@type" "Person"
+  "name" "Pascal Sasdrich"
+  "url" .Site.BaseURL
+  "image" ("images/avatar.jpg" | absURL)
+  "email" "mailto:pascal.sasdrich@rub.de"
+  "jobTitle" "Head of the research group Computer-Aided Verification of Physical Security Properties (CAVE)"
+  "worksFor" (dict "@type" "CollegeOrUniversity" "name" "Ruhr-Universität Bochum" "url" "https://ruhr-uni-bochum.de/en")
+  "knowsAbout" (slice "Hardware Security" "Computer-Aided Security Engineering" "Hardware Security Verification" "Security-Oriented Electronic Design Automation")
+  "sameAs" (slice
+    "https://orcid.org/0000-0002-5443-626X"
+    "https://dblp.org/pid/144/2489.html"
+    "https://scholar.google.com/citations?user=ODY-nGgAAAAJ"
+    "https://www.linkedin.com/in/pascal-sasdrich-8ba499179/"
+    "https://github.com/sasdrich")
+-}}
+<script type="application/ld+json">{{ $person | jsonify | safeJS }}</script>
+{{- end -}}
