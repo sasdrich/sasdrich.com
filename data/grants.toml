@@ -1,9 +1,51 @@
-# Funded projects, shown as "Grants" on the home page (newest first).
-# Uncomment and fill in; `end` and `link` are optional.
-#
-# [[grant]]
-# start       = 2020
-# end         = 2026
-# title       = "Project title"
-# description = "funded by the Deutsche Forschungsgemeinschaft (DFG) as part of the Emmy Noether Programme."
-# link        = "https://..."
+# Funded projects, shown as "Third-Party Funded Projects" on the home page (newest first).
+# `end` and `link` are optional.
+
+[[grant]]
+start       = 2024
+end         = 2027
+title       = "EASEPROFIT"
+description = "Agile and Post-Quantum-Secure Protocols for the Finance Industry. BMFTR joint project in the programme *Bringing Post-Quantum Cryptography into Applications* (joint proposal with Tim Güneysu)."
+
+[[grant]]
+start       = 2024
+end         = 2027
+title       = "DI-OWAS"
+description = "Open Tools for Adaptive SoCs with AI and Cryptography. BMFTR joint project in the programme *Design Tools for Sovereign Chip Development with Open Source* (joint proposal with Tim Güneysu)."
+
+[[grant]]
+start       = 2024
+end         = 2027
+title       = "DI-OCDCpro"
+description = "Open-Source Chip Design Infrastructure as a Learning and Competition Platform for Students and Young Talents. BMFTR joint project in the programme *Design Tools for Sovereign Chip Development with Open Source* (joint proposal with Tim Güneysu)."
+
+[[grant]]
+start       = 2024
+end         = 2027
+title       = "EMBOSOM"
+description = "Security of Embedded Software through Modern Emerging Hardware Paradigms. DFG Priority Programme *Nano Security* (joint proposal with Rolf Drechsler, Christoph Lüth and Tim Güneysu)."
+
+[[grant]]
+start       = 2023
+end         = 2029
+title       = "CAVE"
+description = "Computer-Aided Verification of Physical Security Properties. DFG Emmy Noether Programme."
+link        = "https://www.dfg.de/en/research_funding/programmes/individual/emmy_noether/index.html"
+
+[[grant]]
+start       = 2022
+end         = 2025
+title       = "CONVOLVE"
+description = "Seamless design of smart edge processors. EU Research and Innovation Action *Ultra-low-power, secure processors for edge computing* (joint proposal with Tim Güneysu)."
+
+[[grant]]
+start       = 2022
+end         = 2025
+title       = "PROVECTA"
+description = "Processor Verification for Combined Threats and Attacks. Industry-funded project in the programme *Secure Processor Assurance and Resilience (SPAR)* (joint proposal with Tim Güneysu)."
+
+[[grant]]
+start       = 2021
+end         = 2024
+title       = "VE-HEP"
+description = "Hardening of the Value Chain through Open-Source, Trustworthy EDA Tools and Processors. BMFTR joint project in the programme *Trustworthy Electronics* (joint proposal with Tim Güneysu)."

@@ -50,12 +50,49 @@ disableKinds = ['taxonomy']
     [menu.before.params]
       class = 'menu-section'
   [[menu.before]]
+    name       = 'Curriculum Vitae'
+    identifier = 'BiographyCurriculum Vitae'
+    url        = '/#curriculum-vitae'
+    weight     = 11
+    parent     = 'Biography'
+  [[menu.before]]
+    name       = 'Honors and Awards'
+    identifier = 'BiographyHonors and Awards'
+    url        = '/#awards'
+    weight     = 12
+    parent     = 'Biography'
+  [[menu.before]]
     name       = 'News'
     identifier = 'News'
     url        = '/#news'
     weight     = 20
     [menu.before.params]
       class = 'menu-section'
+  [[menu.before]]
+    name       = 'Research'
+    identifier = 'Research'
+    url        = '/#research'
+    weight     = 25
+    [menu.before.params]
+      class = 'menu-section'
+  [[menu.before]]
+    name       = 'Software and Tools'
+    identifier = 'ResearchSoftware and Tools'
+    url        = '/#tools'
+    weight     = 28
+    parent     = 'Research'
+  [[menu.before]]
+    name       = 'Third-Party Funded Projects'
+    identifier = 'ResearchThird-Party Funded Projects'
+    url        = '/#third-party-funded-projects'
+    weight     = 27
+    parent     = 'Research'
+  [[menu.before]]
+    name       = 'Research Group'
+    identifier = 'ResearchResearch Group'
+    url        = '/#group'
+    weight     = 26
+    parent     = 'Research'
   [[menu.before]]
     name       = 'Publications'
     identifier = 'Publications'
@@ -70,36 +107,36 @@ disableKinds = ['taxonomy']
     weight     = 31
     parent     = 'Publications'
   [[menu.before]]
-    name       = 'Conferences and Workshops'
-    identifier = 'PublicationsConferences and Workshops'
+    name       = 'Conference Papers'
+    identifier = 'PublicationsConference Papers'
     url        = '/#conferences'
     weight     = 32
     parent     = 'Publications'
   [[menu.before]]
-    name       = 'Preprints and Technical Reports'
-    identifier = 'PublicationsPreprints and Technical Reports'
+    name       = 'Preprints and Reports'
+    identifier = 'PublicationsPreprints and Reports'
     url        = '/#preprints'
     weight     = 33
     parent     = 'Publications'
   [[menu.before]]
-    name       = 'Presentations'
-    identifier = 'Presentations'
+    name       = 'Talks'
+    identifier = 'Talks'
     url        = '/#talks'
     weight     = 40
     [menu.before.params]
       class = 'menu-section'
   [[menu.before]]
     name       = 'Invited Talks'
-    identifier = 'PresentationsInvited Talks'
+    identifier = 'TalksInvited Talks'
     url        = '/#invited'
     weight     = 41
-    parent     = 'Presentations'
+    parent     = 'Talks'
   [[menu.before]]
-    name       = 'Conferences and Workshops'
-    identifier = 'PresentationsConferences and Workshops'
+    name       = 'Conference Talks'
+    identifier = 'TalksConference Talks'
     url        = '/#presentations'
     weight     = 42
-    parent     = 'Presentations'
+    parent     = 'Talks'
   [[menu.before]]
     name       = 'Teaching'
     identifier = 'Teaching'
@@ -108,30 +145,12 @@ disableKinds = ['taxonomy']
     [menu.before.params]
       class = 'menu-section'
   [[menu.before]]
-    name       = 'Lectures and Courses'
-    identifier = 'TeachingLectures and Courses'
-    url        = '/#courses'
-    weight     = 51
-    parent     = 'Teaching'
-  [[menu.before]]
-    name       = 'Scientific Activities'
-    identifier = 'Scientific Activities'
-    url        = '/#activities'
+    name       = 'Service'
+    identifier = 'Service'
+    url        = '/#service'
     weight     = 60
     [menu.before.params]
       class = 'menu-section'
-  [[menu.before]]
-    name       = 'Community Services'
-    identifier = 'Scientific ActivitiesCommunity Services'
-    url        = '/#services'
-    weight     = 61
-    parent     = 'Scientific Activities'
-  [[menu.before]]
-    name       = 'Honors and Awards'
-    identifier = 'Scientific ActivitiesHonors and Awards'
-    url        = '/#awards'
-    weight     = 62
-    parent     = 'Scientific Activities'
 
 [module]
   [[module.imports]]

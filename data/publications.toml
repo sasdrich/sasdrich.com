@@ -16,8 +16,23 @@ references.artifacts = ""
 references.website   = ""
 
 [[journal.publication]]
+title                = "Multivariate TVLA - Efficient Side-Channel Evaluation Using Confidence Intervals"
+authors              = [ "Florian Bache", "Jonas Wloka", "Pascal Sasdrich", "Tim Güneysu" ]
+published            = "2025-03-01"
+venue                = "ieeetc"
+issue                = "74.3"
+references.preprint  = ""
+references.paper     = ""
+references.doi       = "https://doi.org/10.1109/TC.2023.3299045"
+references.slides    = ""
+references.video     = ""
+references.code      = ""
+references.artifacts = ""
+references.website   = ""
+
+[[journal.publication]]
 title                = "HADES: Automated Hardware Design Exploration for Cryptographic Primitives"
-authors              = [ "Fabian Buschkowski", "Georg Land", "Jan Richter-Brockmann", "Pascal Sasdrich", "Tim Güneysu" ]
+authors              = [ "Fabian Buschkowski", "Georg Land", "Niklas Höher", "Jan Richter-Brockmann", "Pascal Sasdrich", "Tim Güneysu" ]
 published            = "2025-06-15"
 venue                = "tches"
 issue                = "Issue 4"
@@ -261,7 +276,7 @@ venue                = "eurocrypt"
 issue                = ""
 references.preprint  = "https://eprint.iacr.org/2026/343"
 references.paper     = ""
-references.doi       = ""
+references.doi       = "https://doi.org/10.1007/978-3-032-25336-1_19"
 references.slides    = ""
 references.video     = ""
 references.code      = ""
@@ -605,6 +620,20 @@ authors              = [ "Fabian Buschkowski", "Niklas Höher", "Pascal Sasdrich
 published            = "2026-06-19"
 venue                = "eprint"
 references.preprint  = "https://eprint.iacr.org/2026/1265"
+references.paper     = ""
+references.doi       = ""
+references.slides    = ""
+references.video     = ""
+references.code      = ""
+references.artifacts = ""
+references.website   = ""
+
+[[preprint.publication]]
+title                = "CHARRM: Characterizing Hardware Leakage in the Robust Random Probing Model"
+authors              = [ "Armand Schinkel", "Pascal Sasdrich" ]
+published            = "2026-10-19"
+venue                = "eprint"
+references.preprint  = "https://eprint.iacr.org/2026/2552"
 references.paper     = ""
 references.doi       = ""
 references.slides    = ""

@@ -8,7 +8,7 @@ link = "https://casa.rub.de/"
 
 [it-sicherheitspreis]
 title = "German IT Security Prize (100.000 €)"
-description = "awarded by the Horst Görtz Stiftung (1st place)."
+description = "(1st place of the 9th German IT Security Prize) awarded by the Horst Görtz Stiftung for the toolbox *Einfach sicher: Ein Werkzeugkasten zur automatisierten Erstellung geschützter Hardware*, together with David Knichel, Amir Moradi and Nicolai Müller."
 start = 2022-11-10
 link = "https://www.deutscher-it-sicherheitspreis.de/"
 
@@ -25,4 +25,3 @@ description = "of the [Nordrhein-Westfälische Akademie der Wissenschaften und d
 start = 2024-01-01
 end = 2027-12-31
 link = "https://www.awk.nrw/news/jk/gesichter-des-jungen-kollegs-dr-ing-pascal-sasdrich"
-

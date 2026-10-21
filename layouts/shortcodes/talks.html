@@ -7,12 +7,12 @@
 {{ $venue := index $venues (index .venue) }}
 {{ $event := index $venue (index (time.Format "2006" .date)) }}
 {{ $link  := $venue.link }}{{ with $event.link }}{{ $link = $event.link }}{{ end }}
-{{ $slides := (printf "%s" .venue | printf "%s_%s" .date | printf "%s.pdf") }}
+{{ $slides := printf "%s_%s.pdf" (time.Format "2006-01-02" .date) .venue }}
 
 <div class="listContainer">
 <div class="listTag">{{ $venue.short }}'{{ time.Format "06" $event.start }}</div>
 <div class="listElem">
-<b>{{ .title }}</b>, {{ with $link }}<a href="{{ . }}">{{ end }}{{ $venue.title }}{{ with $link }}</a>{{ end }}, {{ time.Format "2006" $event.start }}, {{ $event.location }}{{ if (where (readDir "static/slides") "Name" $slides) }}<a href="../../slides/{{ $slides }}" class="tag">slides</a>{{ end }}
+<b>{{ .title }}</b>, {{ with $link }}<a href="{{ . }}">{{ end }}{{ $venue.title }}{{ with $link }}</a>{{ end }}, {{ time.Format "2006" $event.start }}, {{ $event.location }}{{ if (where (readDir "static/slides") "Name" $slides) }}<a href="{{ printf "slides/%s" $slides | relURL }}" class="tag">slides</a>{{ end }}
 </div>
 </div>
 

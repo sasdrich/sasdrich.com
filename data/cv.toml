@@ -1,8 +1,50 @@
 # Short CV timeline, shown as "Short Bio" on the home page (newest first).
-# Uncomment and fill in; years are plain numbers or strings, `end` is optional.
-#
-# [[entry]]
-# start       = 2018
-# end         = ""
-# title       = "Position or degree"
-# description = "at Institution, City, Country."
+# Years are plain numbers or strings, `end` is optional.
+
+[[entry]]
+start       = 2023
+end         = "present"
+title       = "Head of the Emmy Noether Research Group CAVE"
+description = "at the Faculty of Computer Science, Ruhr-Universität Bochum, Germany. The group on *Computer-Aided Verification of Physical Security Properties* is funded by the Deutsche Forschungsgemeinschaft (DFG)."
+
+[[entry]]
+start       = 2021
+end         = "present"
+title       = "Akademischer Rat"
+description = "at the Chair for Security Engineering, Faculty of Computer Science, Ruhr-Universität Bochum, Germany (permanent civil-servant position since May 2023)."
+
+[[entry]]
+start       = 2019
+end         = 2021
+title       = "Postdoctoral Researcher"
+description = "at the Chair for Security Engineering, Faculty of Computer Science, Ruhr-Universität Bochum, Germany."
+
+[[entry]]
+start       = 2018
+end         = 2019
+title       = "Senior Hardware Security Engineer"
+description = "at Rambus Inc., Rotterdam, The Netherlands. Research and development in hardware security (side-channel resistance, hardware root of trust) and automotive functional safety (ISO 26262)."
+
+[[entry]]
+start       = 2013
+end         = 2018
+title       = "Dr.-Ing. (PhD) in Electrical Engineering and Information Technology"
+description = "at Ruhr-Universität Bochum, Germany, working as a research assistant in the Secure Hardware group, the Chair for Embedded Security, and the Chair for Security Engineering. Thesis: [*Cryptographic Hardware Agility for Physical Protection*](https://hss-opus.ub.ruhr-uni-bochum.de/opus4/frontdoor/index/index/docId/5663)."
+
+[[entry]]
+start       = 2017
+end         = 2017
+title       = "Cryptography Engineering Intern"
+description = "at Rambus Inc., San Francisco, USA. Research and development in hardware security (side-channel resistance)."
+
+[[entry]]
+start       = 2012
+end         = 2015
+title       = "M.Sc. in IT Security / Information Technology"
+description = "at Ruhr-Universität Bochum, Germany."
+
+[[entry]]
+start       = 2009
+end         = 2012
+title       = "B.Sc. in IT Security / Information Technology"
+description = "at Ruhr-Universität Bochum, Germany."

@@ -1,0 +1,40 @@
+# Supervised PhD students, shown on the home page (newest first).
+# `affiliation` is a short form of the group and university, shown in brackets; `end` is optional; `role` describes the type of supervision.
+
+[[student]]
+start       = 2026
+name        = "Felix Raback"
+affiliation = "CAVE, Ruhr-Universität Bochum"
+role        = "First supervisor"
+
+[[student]]
+start       = 2026
+name        = "Khan Keren Mengwi"
+affiliation = "University of Bamenda, Cameroon"
+role        = "Co-supervisor (first supervisor: Emmanuel Fouotsa)"
+
+[[student]]
+start       = 2026
+name        = "Ting-Yun Yeh"
+affiliation = "CAVE, Ruhr-Universität Bochum"
+role        = "First supervisor"
+
+[[student]]
+start       = 2024
+name        = "Armand Schinkel"
+affiliation = "CAVE, Ruhr-Universität Bochum"
+role        = "First supervisor"
+
+[[student]]
+start       = 2019
+end         = 2024
+name        = "Jakob Feldtkeller"
+affiliation = "Chair for Security Engineering, Ruhr-Universität Bochum"
+role        = "Scientific supervisor (first supervisor: Tim Güneysu)"
+
+[[student]]
+start       = 2019
+end         = 2023
+name        = "Jan Richter-Brockmann"
+affiliation = "Chair for Security Engineering, Ruhr-Universität Bochum"
+role        = "Scientific supervisor (first supervisor: Tim Güneysu)"

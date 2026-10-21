@@ -1,0 +1,7 @@
+{{- /* Supervised PhD students from data/students.toml */ -}}
+{{- range sort .Site.Data.students.student "start" "desc" }}
+<div class="listContainer">
+    <div class="listTag">{{ if .end }}{{ .start }} - {{ .end }}{{ else }}since {{ .start }}{{ end }}</div>
+    <div class="listElem"><b>{{ .name }}</b>{{ with .affiliation }} ({{ . }}){{ end }}. {{ .role }}.</div>
+</div>
+{{- end }}

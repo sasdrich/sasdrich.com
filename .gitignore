@@ -6,7 +6,6 @@ resources/
 public/
 jsconfig.json
 node_modules/
-go.sum
 .hugo_build.lock
 
 # macOS / editor leftovers
