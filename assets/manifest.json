@@ -1,0 +1,16 @@
+{
+  "name": "{{ .Site.Title }}",
+  "short_name": "{{ .Site.Title }}",
+  "start_url": "{{ "./" | relURL }}",
+  "scope": "{{ "./" | relURL }}",
+  "display": "browser",
+  "background_color": "#ffffff",
+  "theme_color": "#007a5a",
+  "icons": [
+    {
+      "src": "{{ "./favicon.svg" | relURL }}",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}

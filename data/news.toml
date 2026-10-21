@@ -5,94 +5,78 @@
 # date        = 2026-10-01
 # title       = "Short title"
 # description = "One or two sentences, Markdown links allowed."
-# tag         = "Publications"   # or "Presentations", "Lectures", "Scientific Activities"
 
 [[item]]
 date        = 2026-10-19
 title       = "CHARRM (preprint)"
 description = "Preprint [CHARRM: Characterizing Hardware Leakage in the Robust Random Probing Model](https://eprint.iacr.org/2026/2552) with Armand Schinkel on the IACR ePrint Archive."
-tag         = "Publications"
 
 [[item]]
 date        = 2026-05-11
 title       = "OPTIMIST 2026 (PC Member)"
 description = "Program Committee member of the [OPTIMIST 2026](https://optimist-ose.org) workshop."
-tag         = "Scientific Activities"
 
 [[item]]
 date        = 2026-05-06
 title       = "CHES 2027 (PC Member)"
 description = "Program Committee member of the [CHES 2027](https://ches.iacr.org/2027/) conference."
-tag         = "Scientific Activities"
 
 [[item]]
 date        = 2026-05-04
 title       = "FDTC 2026 (PC Member)"
 description = "Program Committee member of the [FDTC 2026](https://fdtc.deib.polimi.it/FDTC26/) conference."
-tag         = "Scientific Activities"
 
 [[item]]
 date        = 2026-04-11
 title       = "ASIACRYPT 2026 (PC Member)"
 description = "Program Committee member of the [Asiacrypt 2026](https://asiacrypt.iacr.org/2026/) conference."
-tag         = "Scientific Activities"
 
 [[item]]
 date        = 2026-01-29
 title       = "EUROCRYPT 2026 (accepted paper)"
 description = "Paper [PaCMan – Partition-Code Masking for Combined Security](https://eprint.iacr.org/2026/343) at [Eurocrypt 2026](https://eurocrypt.iacr.org/2026/)."
-tag         = "Publications"
 
 [[item]]
 date        = 2026-01-26
 title       = "Implementing Cryptographic Schemes (Course)"
 description = "30-hours Master's course on *Implementing Cryptographic Schemes* at the [African Institute of Mathematical Sciences (AIMS)](https://aims-cameroon.org) in Limbe, Cameroon."
-tag         = "Lectures"
 
 [[item]]
 date        = 2026-01-12
 title       = "TCHES 2026.2 (accepted paper)"
 description = "Paper [Combined Indistinguishability Analysis - Verifying random probing leakage under random faults](https://eprint.iacr.org/2026/084) at [CHES 2026](https://ches.iacr.org/2026/) (published in TCHES 2026, Issue 2)."
-tag         = "Publications"
 
 [[item]]
 date        = 2025-09-01
 title       = "CHES 2026 (Artifact Evaluation Committee Co-Chair)"
 description = "Artifact Evaluation Committee Co-Chair of the [CHES 2026](https://ches.iacr.org/2026/) conference, together with [Ileana Buhan](https://ileanabuhan.github.io/about/)."
-tag         = "Scientific Activities"
 
 [[item]]
 date        = 2025-07-01
 title       = "CyBARsecurity (science slam)"
 description = "Science slam on [Seitenkanalangriffe - Wenn Hacker zwischen den Zeilen lesen](/slides/2025-07-01_cybarsecurity.pdf) at the [CyBARsecurity](https://casa.rub.de/veranstaltungen/cybarsecurity) event in Bochum (presentation in German only)."
-tag         = "Presentations"
 
 [[item]]
 date        = 2025-05-05
 title       = "Eurocrypt 2025 (research talk)"
 description = "Research talk on [INDIANA - Verifying (Random) Probing Security through Indistinguishability Analysis](/slides/2025-05-05_eurocrypt.pdf) at [Eurocrypt 2025](https://eurocrypt.iacr.org/2025/)."
-tag         = "Presentations"
 
 [[item]]
 date        = 2025-04-22
 title       = "PROACT Training School 2025 (invited talk)"
 description = "Invited talk on [Automated Verification of Physical Security Properties](https://proact-school.cs.ru.nl/talks.html#pascal) at the [PROACT Training School](https://proact-school.cs.ru.nl/)."
-tag         = "Presentations"
 
 [[item]]
 date        = 2025-04-07
 title       = "FDTC 2025 (PC Member)"
 description = "Program Committee member of the [FDTC 2025](https://fdtc.deib.polimi.it/FDTC25/) conference."
-tag         = "Scientific Activities"
 
 [[item]]
 date        = 2025-04-02
 title       = "ASIACRYPT 2025 (PC Member)"
 description = "Program Committee member of the [Asiacrypt 2025](https://asiacrypt.iacr.org/2025/) conference."
-tag         = "Scientific Activities"
 
 [[item]]
 date        = 2025-02-24
 title       = "EUROCRYPT 2025 (accepted paper)"
 description = "Paper [INDIANA - Verifying (Random) Probing Security through Indistinguishability Analysis](https://eprint.iacr.org/2024/833) at [Eurocrypt 2025](https://eurocrypt.iacr.org/2025/)."
-tag         = "Publications"

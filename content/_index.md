@@ -23,11 +23,13 @@ aliases:
 description: "Pascal Sasdrich heads the CAVE research group at Ruhr University Bochum (DFG Emmy Noether Programme), working on hardware security and computer-aided security engineering."
 ---
 
-# Biography
+<h1 class="sr-only">Pascal Sasdrich</h1>
+
+## Biography {#biography}
 
 <div class="bioPhoto">
 
-![Pascal Sasdrich](/images/avatar.jpg)
+{{< bioimage >}}
 
 <div class="photoCredit">&copy; Nordrhein-Westfälische Akademie der Wissenschaften und der Künste |<br> Bettina Engel-Albustin 2023 (NRW AWK| Engel-Albustin)</div>
 
@@ -60,7 +62,7 @@ Sonia Belaïd shows a short CV timeline here (years | position or degree). To fi
 ## Research {#research}
 
 ### Research Group {#group}
-The research group *Computer-Aided Verification of Physical Security Properties* (CAVE) is an Emmy Noether group funded by the Deutsche Forschungsgemeinschaft (DFG) since 2023 and hosted at the Faculty of Computer Science, Ruhr-Universität Bochum. The group develops formal models of physical attackers and automated methods and tools to verify the security of hardware implementations against side-channel and fault-injection attacks, and to build protected systems based on them.
+The research group *Computer-Aided Verification of Physical Security Properties* (CAVE) is an Emmy Noether group funded by the Deutsche Forschungsgemeinschaft (DFG) since 2023 and hosted at the Faculty of Computer Science, Ruhr University Bochum. The group develops formal models of physical attackers and automated methods and tools to verify the security of hardware implementations against side-channel and fault-injection attacks, and to build protected systems based on them.
 
 #### Supervised PhD Students {#students}
 {{% students %}}
@@ -124,4 +126,4 @@ I am or was (co-)organizer of the following workshops, conferences, and schools.
 {{% services "organizer" %}}
 
 ### Academic Self-Administration
-<div class="listContainer"><div class="listTag">2022 &ndash; present</div><div class="listElem"><b>Doctoral Committee</b>, Faculty of Computer Science, Ruhr-Universität Bochum. Elected member for the status group of postdoctoral researchers.</div></div>
+<div class="listContainer"><div class="listTag">2022 &ndash; present</div><div class="listElem"><b>Doctoral Committee</b>, Faculty of Computer Science, Ruhr University Bochum. Elected member for the status group of postdoctoral researchers.</div></div>

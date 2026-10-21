@@ -1,0 +1,14 @@
+{{- /* Redirect page for old news URLs (/posts/..., /categories/News/): jump to the News section of the home page */ -}}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>{{ .Permalink }}</title>
+  <link rel="canonical" href="{{ .Permalink }}">
+  <meta name="robots" content="noindex">
+  <meta http-equiv="refresh" content="0; url={{ .Permalink }}#news">
+</head>
+<body>
+  <p>This page has moved to <a href="{{ .Permalink }}#news">the News section</a>.</p>
+</body>
+</html>

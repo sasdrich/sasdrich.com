@@ -1,0 +1,10 @@
+{{- /* Portrait from assets/images/avatar.jpg: WebP with srcset, JPEG fallback, explicit size */ -}}
+{{- with resources.Get "images/avatar.jpg" }}
+{{- $small := .Resize "400x webp q85" }}
+{{- $large := .Resize "800x webp q85" }}
+{{- $fallback := .Resize "400x jpg q85" }}
+<picture>
+  <source type="image/webp" srcset="{{ $small.RelPermalink }} 400w, {{ $large.RelPermalink }} 800w" sizes="(max-width: 600px) 100vw, 400px">
+  <img src="{{ $fallback.RelPermalink }}" width="{{ $fallback.Width }}" height="{{ $fallback.Height }}" alt="Portrait of Pascal Sasdrich" fetchpriority="high">
+</picture>
+{{- end }}

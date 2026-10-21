@@ -10,11 +10,11 @@ disablePathToLower = true
 enableGitInfo = false
 
 # Theme is intended for documentation use, therefore it doesn't render taxonomy.
-disableKinds = ['taxonomy']
+disableKinds = ['taxonomy', 'rss']
 
 [params]
-  # Default preview image for social media (og:image)
-  images = ['images/avatar.jpg']
+  # Favicon (file in static/)
+  BookFavicon = 'favicon.svg'
 
   # Color theme: light, dark or auto
   BookTheme = 'light'
@@ -161,6 +161,17 @@ disableKinds = ['taxonomy']
     path = 'github.com/hugomods/icons/vendors/bootstrap'
   [[module.imports]]
     path = 'hugo-book'
+    # Only mount what the site uses: skip mermaid, katex and fuse.js (search is off)
+    [[module.imports.mounts]]
+      source = 'assets'
+      target = 'assets'
+    [[module.imports.mounts]]
+      source = 'layouts'
+      target = 'layouts'
+    [[module.imports.mounts]]
+      source = 'static'
+      target = 'static'
+      excludeFiles = ['mermaid.min.js', 'fuse.min.js', 'katex/**', 'favicon.png']
 
 [markup.goldmark.renderer]
   unsafe = true

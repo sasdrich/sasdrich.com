@@ -1,0 +1,9 @@
+{{- /* Single page: close the mobile menu after a menu entry was tapped */ -}}
+<script>
+  document.querySelectorAll('.book-menu a[href^="/#"], .book-menu a[href^="#"]').forEach(function (a) {
+    a.addEventListener('click', function () {
+      var c = document.getElementById('menu-control');
+      if (c) { c.checked = false; }
+    });
+  });
+</script>
