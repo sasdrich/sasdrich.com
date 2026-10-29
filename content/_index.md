@@ -73,6 +73,7 @@ Funded projects.
 
 ### Software and Tools {#tools}
 
+<div class="listContainer"><div class="listTag">TCHES'26</div><div class="listElem"><b>CIA.</b> Combined Indistinguishability Analysis: verification of random probing leakage under random faults, i.e., of masked hardware against combined passive and active attacks. <a href="https://github.com/rub-cave/combined-indistinguishability-analysis" class="tag">repository</a></div></div>
 <div class="listContainer"><div class="listTag">Eurocrypt'25</div><div class="listElem"><b>INDIANA.</b> Verification of masked hardware against more complex passive attacker models, including random probing leakage, based on indistinguishability analysis. <a href="https://github.com/Chair-for-Security-Engineering/INDIANA" class="tag">repository</a></div></div>
 <div class="listContainer"><div class="listTag">TCHES'25</div><div class="listElem"><b>HADES.</b> Automated design space exploration for protected implementations of cryptographic primitives, trading off security, area and latency. <a href="https://github.com/Chair-for-Security-Engineering/HADES" class="tag">repository</a></div></div>
 <div class="listContainer"><div class="listTag">TCHES'22</div><div class="listElem"><b>VERICA.</b> Formal verification of circuits against combined attacks, i.e., simultaneous information leakage (side channels) and tampering (fault injection). <a href="https://github.com/Chair-for-Security-Engineering/VERICA" class="tag">repository</a></div></div>
