@@ -62,10 +62,16 @@ venues = ["asiacrypt", "fdtc", "optimist"]
 
 [[aecchair]]
 year   = "2026"
-venues = ["tches"]
+venues = ["ches"]
 
 # =============================================================================
 
 [[organizer]]
 year   = "2023"
 venues  = ["steve"]
+
+# =============================================================================
+
+[[areachair]]
+year   = "2027"
+venues = ["ches"]

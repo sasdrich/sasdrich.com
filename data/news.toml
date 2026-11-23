@@ -7,6 +7,11 @@
 # description = "One or two sentences, Markdown links allowed."
 
 [[item]]
+date        = 2026-11-21
+title       = "CHES 2027 (Area Chair)"
+description = "Area Chair of the [CHES 2027](https://ches.iacr.org/2027/) conference."
+
+[[item]]
 date        = 2026-10-19
 title       = "CHARRM (preprint)"
 description = "Preprint [CHARRM: Characterizing Hardware Leakage in the Robust Random Probing Model](https://eprint.iacr.org/2026/2552) with Armand Schinkel on the IACR ePrint Archive."

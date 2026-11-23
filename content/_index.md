@@ -110,6 +110,10 @@ Funded projects.
 I am or was (co-)chair of the program committees of the following workshops, conferences, and schools.
 {{% services "pcchair" %}}
 
+### Area Chair
+I am or was area chair of the following workshops, conferences, and schools.
+{{% services "areachair" %}}
+
 ### Program Committee
 I am or was member of the program committees of the following workshops, conferences, and schools.
 {{% services "pcmember" %}}
