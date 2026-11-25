@@ -7,6 +7,11 @@
 # description = "One or two sentences, Markdown links allowed."
 
 [[item]]
+date        = 2026-11-25
+title       = "Akademischer Oberrat"
+description = "Appointed Akademischer Oberrat at the Faculty of Computer Science, Ruhr University Bochum."
+
+[[item]]
 date        = 2026-11-21
 title       = "CHES 2027 (Area Chair)"
 description = "Area Chair of the [CHES 2027](https://ches.iacr.org/2027/) conference."

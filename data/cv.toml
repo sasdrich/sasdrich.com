@@ -2,6 +2,12 @@
 # Years are plain numbers or strings, `end` is optional.
 
 [[entry]]
+start       = 2026
+end         = "present"
+title       = "Akademischer Oberrat"
+description = "at the Faculty of Computer Science, Ruhr University Bochum, Germany (promoted in November 2026)."
+
+[[entry]]
 start       = 2023
 end         = "present"
 title       = "Head of the Emmy Noether Research Group CAVE"
@@ -9,9 +15,9 @@ description = "at the Faculty of Computer Science, Ruhr University Bochum, Germa
 
 [[entry]]
 start       = 2021
-end         = "present"
+end         = 2026
 title       = "Akademischer Rat"
-description = "at the Chair for Security Engineering, Faculty of Computer Science, Ruhr University Bochum, Germany (permanent civil-servant position since May 2023)."
+description = "at the Faculty of Computer Science, Ruhr University Bochum, Germany (permanent civil-servant position since May 2023)."
 
 [[entry]]
 start       = 2019
